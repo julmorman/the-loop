@@ -1,0 +1,181 @@
+{
+  "id": "week-14",
+  "date": "9 de Septiembre",
+  "funny_title": "Semana 14",
+  "news": [
+    {
+      "id": "onu-adopta-mapa-equal-earth",
+      "category": "geopolítica",
+      "title": "La ONU adopta el mapa Equal Earth",
+      "short_summary": "Reemplaza a Mercator, que agranda los territorios cercanos a los polos y achica el resto.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/31-03-2026-UN-Photo-Annalena-Baerbock.jpg/image1170x530cropped.jpg",
+      "context": "* El 4 de septiembre, la Asamblea General de la ONU votó adoptar la proyección Equal Earth como referencia.\n* La resolución busca corregir la distorsión de Mercator, que muestra a Groenlandia del mismo tamaño que África.\n* La votación fue de 164 a favor y 1 en contra, el voto negativo de Estados Unidos.",
+      "extended_context": "La Asamblea General de las Naciones Unidas adoptó el 4 de septiembre de 2026 una resolución no vinculante que promueve el uso de la proyección cartográfica Equal Earth, desarrollada en 2018, como alternativa preferida a la tradicional proyección de Mercator, vigente desde el siglo XVI. La votación fue de 164 países a favor, 6 abstenciones y un solo voto en contra: el de Estados Unidos.\n\nEl cambio busca corregir una distorsión histórica de Mercator, que agranda visualmente los territorios cercanos a los polos y achica los que están cerca del ecuador. El ejemplo más citado es el de Groenlandia, que en los mapas tradicionales aparece casi del mismo tamaño que África, aunque el continente africano es en realidad unas 14 veces más grande. Impulsores de la reforma la describieron como un acto de \"justicia cognitiva\".\n\nLa resolución no obliga a ningún país a cambiar sus mapas oficiales ni modifica fronteras: es una recomendación política. Estados Unidos calificó la iniciativa de \"agenda ideológica\", mientras que países como Francia ya anunciaron que adoptarán la nueva proyección. Con el cambio, los países cercanos al ecuador, como gran parte de África y América Latina, ganan tamaño relativo en los mapas, mientras que territorios más alejados, como Argentina, se ven algo más compactos aunque con proporciones más precisas.",
+      "links": [
+        { "name": "ONU Noticias", "url": "https://news.un.org/es/story/2026/09/1541872" },
+        { "name": "DW", "url": "https://amp-dw-com.cdn.ampproject.org/v/s/amp.dw.com/es/la-onu-adopta-la-reforma-de-la-cartograf%C3%ADa-mundial/a-79040392?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "BBC News", "url": "https://www-bbc-com.cdn.ampproject.org/v/s/www.bbc.com/mundo/articles/cn8evenx6epo.amp?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/el-mundo/la-onu-deja-de-lado-los-viejos-mapas-de-mercator-por-una-nueva-cartografia-mundial-mas-cercana-a-la-nid04092026/" },
+        { "name": "El País", "url": "https://elpais-com.cdn.ampproject.org/v/s/elpais.com/planeta-futuro/2026-09-04/la-onu-adopta-un-nuevo-mapa-de-africa-mas-ajustado-a-las-dimensiones-reales-en-una-resolucion-no-vinculante.html?outputType=amp&amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "BBC News", "url": "https://www-bbc-com.cdn.ampproject.org/v/s/www.bbc.com/mundo/articles/cx2zv86p1ryo.amp?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" }
+      ]
+    },
+    {
+      "id": "baja-edad-imputabilidad-14-anos",
+      "category": "nacional",
+      "title": "Entra en vigencia la baja de imputabilidad",
+      "short_summary": "Adolescentes de 14 y 15 años ya pueden ser procesados y condenados penalmente en Argentina.",
+      "image": "https://chequeado.com/wp-content/uploads/2026/09/Template-Nota-web-81.webp",
+      "context": "* El nuevo régimen penal juvenil bajó la edad de imputabilidad de 16 a 14 años en Argentina.\n* Para delitos graves permite hasta 15 años de prisión efectiva, aunque prohíbe la prisión perpetua.\n* La ley entró en vigencia el 6 de septiembre y ya generó el primer freno judicial en Buenos Aires.",
+      "extended_context": "El 6 de septiembre de 2026 entró en vigencia en Argentina el nuevo régimen penal juvenil, que bajó de 16 a 14 años la edad a partir de la cual un adolescente puede ser imputado, procesado y condenado penalmente. La reforma derogó las leyes de 1980 (22.278 y 22.803) que regulaban el régimen anterior.\n\nEl nuevo esquema gradúa las penas según la gravedad del delito: para los más leves (con pena de hasta 3 años) prohíbe la prisión efectiva y prevé alternativas como programas educativos, trabajo comunitario o monitoreo electrónico; para los delitos de gravedad intermedia, la prisión puede reemplazarse por medidas alternativas bajo ciertas condiciones; y para los delitos graves permite prisión efectiva de hasta 15 años, aunque prohíbe la prisión perpetua.\n\nEl decreto reglamentario, publicado días antes, estableció además la figura de supervisores para el seguimiento de las medidas no privativas de la libertad. La reforma generó reacciones encontradas: mientras funcionarios del Gobierno la celebraron como el fin de un vacío legal, una jueza de la provincia de Buenos Aires suspendió su aplicación provincial al día siguiente de entrar en vigencia.",
+      "links": [
+        { "name": "Clarín", "url": "https://www-clarin-com.cdn.ampproject.org/v/s/www.clarin.com/policiales/entra-vigencia-nueva-ley-penal-juvenil-baja-edad-imputabilidad-impacto-sistema-judicial_0_XqemAy7tp9.amp.html?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Página 12", "url": "https://www.pagina12.com.ar/2026/09/07/el-gobierno-reglamento-su-nuevo-regimen-penal-juvenil-y-ya-puede-encarcelar-a-chicos-de-14-anos/" },
+        { "name": "Chequeado", "url": "https://chequeado.com/el-explicador/nueva-ley-penal-juvenil-que-cambia-para-los-adolescentes-de-14-a-18-anos/" },
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/seguridad/quedo-vigente-la-baja-de-la-edad-de-imputabilidad-y-se-fijaran-condenas-desde-los-14-anos-nid05092026/" }
+      ]
+    },
+    {
+      "id": "israel-intensifica-ataques-sur-libano-septiembre-2026",
+      "category": "geopolítica",
+      "title": "Israel intensifica sus ataques en el sur del Líbano",
+      "short_summary": "Un bombardeo mató a once personas pese al alto el fuego vigente desde junio.",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+      "context": "* El 7 de septiembre, ataques israelíes mataron a once personas en el pueblo de Kfar Rumman, en el sur libanés.\n* Entre las víctimas hubo dos niños y dos médicos, alcanzados por un ataque separado contra un vehículo civil.\n* Israel intensificó los bombardeos pese al alto el fuego vigente desde junio de 2026 con Hezbolá.",
+      "extended_context": "Israel intensificó sus ataques sobre el sur del Líbano a comienzos de septiembre de 2026, en abierta tensión con un alto el fuego con Hezbolá vigente desde junio. El 7 de septiembre, ataques aéreos sobre el pueblo de Kfar Rumman mataron al menos a once personas, entre ellas dos niños, según la agencia estatal libanesa de noticias. Un ataque separado con drones sobre un vehículo civil mató además a dos médicos que circulaban por la zona.\n\nEl alto el fuego de junio de 2026 redujo drásticamente la violencia entre ambas partes, pero las tropas israelíes que ocupan franjas del sur libanés en la llamada zona de seguridad continuaron con incursiones y demoliciones de aldeas. Según recuentos periodísticos, los ataques israelíes sobre el Líbano mataron a más de 4.300 personas desde que Hezbolá lanzó cohetes contra Israel en marzo de 2026.\n\nEl Ejército israelí sostiene que sus operaciones apuntan a infraestructura y combatientes de Hezbolá que, según Tel Aviv, violan los términos del acuerdo de alto el fuego al reconstruir capacidades militares en la zona. El Gobierno libanés y Hezbolá niegan estas acusaciones y reclaman el retiro completo de las tropas israelíes del territorio libanés.",
+      "links": [
+        { "name": "DW", "url": "https://amp-dw-com.cdn.ampproject.org/v/s/amp.dw.com/es/ataques-de-israel-contra-hezbol%C3%A1-en-l%C3%ADbano-dejan-al-menos-11-muertos/a-79141474?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "BBC News", "url": "https://www.bbc.com/news/articles/c5yl96vz0edo" },
+        { "name": "Fox News", "url": "https://www-foxnews-com.cdn.ampproject.org/v/s/www.foxnews.com/world/iran-backed-terrorist-movement-hezbollah-ropes-lebanon.amp?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Al Jazeera", "url": "https://www-aljazeera-com.cdn.ampproject.org/v/s/www.aljazeera.com/amp/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Middle East Eye", "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kill-one-injure-10-southern-lebanon" },
+        { "name": "NBC News", "url": "https://www.nbcnews.com/video/shorts/israel-launches-deadly-strike-on-southern-lebanon-269428293843" }
+      ],
+      "related_terms": ["hezbollah"]
+    },
+    {
+      "id": "onu-alerta-riesgo-existencial-ia",
+      "category": "geopolítica",
+      "title": "La ONU advierte que la IA es un riesgo existencial",
+      "short_summary": "El jefe de derechos humanos de la ONU pidió reglas globales urgentes para controlarla.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/05-06-2025-Unsplash-data-centre-02.jpg/image1170x530cropped.jpg",
+      "context": "* Volker Türk, Alto Comisionado de la ONU para los Derechos Humanos, advirtió que la IA podría representar un riesgo existencial.\n* Pidió reglas vinculantes, supervisión independiente y límites claros antes de que la tecnología sea imposible de controlar.\n* Anunció que escribirá a las empresas de IA para pedirles pasos concretos que reduzcan esos riesgos.",
+      "extended_context": "El Alto Comisionado de las Naciones Unidas para los Derechos Humanos, Volker Türk, advirtió el 7 de septiembre de 2026 que la inteligencia artificial avanzada podría convertirse en un \"riesgo existencial para la humanidad\" si se sigue desarrollando sin controles. Dijo compartir la preocupación de referentes de la propia industria tecnológica sobre este punto.\n\nTürk planteó que, sin reglas vinculantes, supervisión independiente y límites claros, la tecnología podría volverse tan poderosa que sus propios desarrolladores pierdan la capacidad de controlarla. Pidió un \"esfuerzo total\" para poner garantías de seguridad antes de que sea demasiado tarde, y anunció que en los próximos días enviará cartas a empresas de IA para pedirles medidas concretas de reducción de riesgos.\n\nEl planteo llega en paralelo a otro informe de la Universidad de las Naciones Unidas centrado en el impacto ambiental de la inteligencia artificial: advierte que, para fin de década, el consumo de agua de los centros de datos de IA podría equivaler al de 1.300 millones de personas, y que hoy más del 90% de la capacidad de cómputo especializada en IA está concentrada en Estados Unidos y China.",
+      "links": [
+        { "name": "DW", "url": "https://amp-dw-com.cdn.ampproject.org/v/s/amp.dw.com/es/la-onu-considera-la-ia-un-potencial-riesgo-existencial-para-la-humanidad/a-79145143?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Reuters", "url": "https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/" },
+        { "name": "ONU Noticias", "url": "https://news.un.org/en/story/2026/06/1167658" }
+      ]
+    },
+    {
+      "id": "nueva-ola-privatizaciones-milei-septiembre-2026",
+      "category": "nacional",
+      "title": "El Gobierno avanza con una nueva ola de privatizaciones",
+      "short_summary": "Apunta a termoeléctricas, represas, gasoductos y AySA, y ya recaudó más de US$1.000 millones.",
+      "image": "https://www.lanacion.com.ar/resizer/v2/la-central-termoelectrica-jose-de-san-martin-en-HLS3MC5HYVF6DFTXWW7S4KN4HQ.jpg?auth=0c0f869e0347715500832276091235c72208a125c3d9be0072a55722f3408b7d&width=1200&height=800&quality=70&smart=true",
+      "context": "* El Gobierno prepara la venta de las termoeléctricas Manuel Belgrano y José de San Martín, entre otros activos.\n* También avanza con represas hidroeléctricas, gasoductos y la venta del 90% de AySA sin precio base.\n* Ya se vendieron IMPSA, las hidroeléctricas de Comahue, Transener y la Hidrovía Paraná-Paraguay por más de US$1.000 millones.",
+      "extended_context": "El Gobierno de Javier Milei avanza con una nueva etapa de privatizaciones que apunta a recaudar más de US$1.000 millones antes de fin de 2026, con el objetivo declarado de destinar esos fondos a pagos de deuda hasta 2027. Entre los activos en venta figuran las termoeléctricas Manuel Belgrano y José de San Martín, represas hidroeléctricas en Chubut, Mendoza, Tucumán y Santiago del Estero, gasoductos como el Perito Moreno, y el 90% de las acciones de Agua y Saneamientos Argentinos (AySA), esta última sin precio base y con apertura de sobres prevista para el 15 de septiembre.\n\nSe trata de la continuidad de un proceso que ya generó ventas por unos US$1.081 millones: la metalúrgica IMPSA (enero 2025), las hidroeléctricas del Comahue (Alicurá, Piedra del Águila, El Chocón-Arroyito y Cerros Colorados, en diciembre de 2025), la empresa de transporte eléctrico Transener (abril 2026), la concesión de la Hidrovía Paraná-Paraguay (julio 2026) y ocho corredores viales (septiembre 2026).\n\nNo todos los procesos avanzaron: la licitación de la operadora aeroportuaria Intercargo fracasó por tercera vez, sin ofertas pese a una valuación base de US$45,1 millones, y el Ministerio de Economía declaró desierto el proceso. Otras privatizaciones anunciadas, como las de Belgrano Cargas, NASA, YCRT, SOFSA y Enarsa, todavía no tienen fecha definida.",
+      "links": [
+        { "name": "Infobae", "url": "https://www-infobae-com.cdn.ampproject.org/v/s/www.infobae.com/economia/2026/09/05/el-mapa-de-las-privatizaciones-de-javier-milei-lo-que-se-ya-vendio-lo-que-no-prospero-y-lo-que-falta/?outputType=amp-type&amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/economia/el-gobierno-prepara-una-nueva-ola-de-privatizaciones-termoelectricas-represas-gasoductos-y-otro-nid06092026/" },
+        { "name": "El Destape", "url": "https://www-eldestapeweb-com.cdn.ampproject.org/v/s/www.eldestapeweb.com/politica/maniobras-sospechas-opacidad-privatizaciones-milei-202693233711?outputType=amp&amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" }
+      ]
+    },
+    {
+      "id": "argentina-empeora-resultados-pisa-2025",
+      "category": "nacional",
+      "title": "Argentina retrocede en las pruebas PISA 2025",
+      "short_summary": "Cayó en matemática, lectura y ciencias, y quedó entre los últimos de la región.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTuTkpaOIiSIBzTlU-lRUNHaboqerbpVCYCKyryeiAP938ap7SBiSSnyo&s=100",
+      "context": "* En matemática, el 76% de los estudiantes argentinos de 15 años no alcanzó el nivel básico esperado.\n* En lectura y ciencias, cerca del 59% de los alumnos tampoco llegó al nivel mínimo de competencia.\n* Argentina quedó octava entre 13 países latinoamericanos evaluados, con caídas en las tres áreas desde 2022.",
+      "extended_context": "Los resultados de la prueba PISA 2025, publicados en septiembre de 2026, mostraron un nuevo retroceso de Argentina en las tres áreas evaluadas respecto de 2022 y 2018. En matemática, el país obtuvo 367 puntos (2,9% menos que en 2022) y el 76% de los estudiantes de 15 años no alcanzó el nivel básico de competencia. En lectura, el puntaje bajó a 389 puntos y el 59% de los alumnos quedó por debajo del umbral mínimo; en ciencias, el resultado fue de 393 puntos, también con el 59% de los estudiantes sin el nivel esperado.\n\nArgentina quedó octava entre 13 países latinoamericanos evaluados, apenas por delante de Guatemala, Paraguay, República Dominicana, El Salvador y Ecuador, y detrás de Uruguay, Chile, Costa Rica, México, Colombia, Brasil y Perú. Menos del 1% de los estudiantes argentinos alcanzó los niveles más altos de desempeño en lectura y ciencias, prácticamente ninguno en matemática, frente a un promedio del 8% en los países de la OCDE.\n\nEl informe también relevó factores de clima escolar: el 58% de los alumnos argentinos dijo que el ruido y el desorden interrumpen las clases (contra 31% en la OCDE), el 20% reconoció haber faltado días enteros a clase y el 66% llegó tarde alguna vez, muy por encima del promedio de la OCDE. La evaluación incluyó a 412 escuelas y 11.093 estudiantes, representativos del 87% de la población de 15 años del país.",
+      "links": [
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/sociedad/pruebas-pisa-2025-la-argentina-vuelve-a-caer-y-menos-del-8-de-los-alumnos-alcanza-el-nivel-basico-en-nid08092026/" },
+        { "name": "Infobae", "url": "https://www-infobae-com.cdn.ampproject.org/v/s/www.infobae.com/educacion/2026/09/08/pruebas-pisa-argentina-cayo-en-lectura-matematica-y-ciencias-y-tuvo-sus-peores-resultados-desde-2006/?outputType=amp-type&amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Clarín", "url": "https://www.clarin.com/sociedad/prueba-pisa-argentina-retrocedio-ultimos-3-anos-quedo-puesto-72-91-paises_0_yRMGQ9mM6t.html" },
+        { "name": "El País", "url": "https://elpais-com.cdn.ampproject.org/v/s/elpais.com/america/2026-09-08/los-paises-de-latinoamerica-retroceden-en-el-informe-pisa-2025-y-estados-unidos-se-hunde-en-lectura.html?outputType=amp&amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Chequeado", "url": "https://chequeado.com/el-explicador/pruebas-pisa-2025-8-de-cada-10-estudiantes-argentinos-no-alcanza-el-nivel-minimo-en-matematica-y-el-59-tampoco-en-lectura/" }
+      ]
+    },
+    {
+      "id": "reino-unido-prohibe-comercio-colonias-cisjordania",
+      "category": "geopolítica",
+      "title": "Reino Unido prohíbe el comercio con colonias en Cisjordania",
+      "short_summary": "Prohibirá importar bienes de los asentamientos y sancionará algunos servicios vinculados a ellos.",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5796x3864+0+0/resize/900/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2F80%2F63c56f2e41bf841381454e618426%2Fgettyimages-2289923446.jpg",
+      "context": "* El canciller Ed Miliband anunció el 8 de septiembre la prohibición de importar bienes de asentamientos israelíes en Cisjordania.\n* También sancionará servicios de financiamiento, construcción, infraestructura, actividad inmobiliaria y publicidad vinculados a los asentamientos.\n* La medida responde al plan israelí E1, que uniría Jerusalén Este con Maale Adumim y dividiría Cisjordania en dos.",
+      "extended_context": "El Reino Unido anunció el 8 de septiembre de 2026, a través del canciller Ed Miliband, la prohibición de importar bienes producidos en asentamientos israelíes de Cisjordania ocupada, además de sanciones a determinados servicios vinculados a esos asentamientos, como financiamiento, construcción, infraestructura, actividad inmobiliaria y publicidad. Según el propio Gobierno británico, las medidas tardarán entre seis y nueve meses en entrar plenamente en vigor.\n\nEl anuncio llega como respuesta al plan israelí conocido como E1, que en agosto de 2026 abrió licitación para 1.234 viviendas nuevas en un área que conectaría la colonia de Maale Adumim con Jerusalén Este. Ese proyecto es visto por Palestina y buena parte de la comunidad internacional como una amenaza directa a la continuidad territorial de un futuro Estado palestino, porque dividiría Cisjordania en dos mitades.\n\nEl Gobierno británico sostuvo la decisión pese a las advertencias de funcionarios y legisladores estadounidenses sobre eventuales consecuencias económicas para la relación bilateral. Como respuesta, el Gobierno israelí anunció el cierre del consulado británico en Jerusalén.",
+      "links": [
+        { "name": "Reuters", "url": "https://www.reuters.com/world/uk/uk-announce-trade-ban-israeli-west-bank-goods-2026-09-08/" },
+        { "name": "The Times of Israel", "url": "https://www-timesofisrael-com.cdn.ampproject.org/v/s/www.timesofisrael.com/britain-said-set-to-declare-trade-ban-with-west-bank-settlements-on-tuesday-amid-e1-dispute/amp/?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "NPR", "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel" },
+        { "name": "Al Jazeera", "url": "https://www-aljazeera-com.cdn.ampproject.org/v/s/www.aljazeera.com/amp/news/2026/9/7/uk-relationship-with-israel?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "CNN", "url": "https://edition.cnn.com/2026/09/08/middleeast/uk-sanctions-israel-west-bank-settlements-intl" },
+        { "name": "Al Jazeera", "url": "https://www-aljazeera-com.cdn.ampproject.org/v/s/www.aljazeera.com/amp/news/2026/9/8/uk-announces-sanctions-on-illegal-israeli-settlements?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" }
+      ]
+    },
+    {
+      "id": "ataques-huties-arabia-saudita-septiembre-2026",
+      "category": "geopolítica",
+      "title": "Ataques hutíes hieren a decenas en Arabia Saudita",
+      "short_summary": "El petróleo subió con fuerza tras el ataque a instalaciones energéticas sauditas.",
+      "image": "https://besacenter.org/wp-content/uploads/2021/03/Saudi-oil-refinery-at-Ras-Tanura-image-via-@Air2O-e1615799173842.jpg",
+      "context": "* Ataques hutíes contra instalaciones energéticas de Arabia Saudita hirieron al menos a 73 civiles y frenaron operaciones.\n* El petróleo Brent tocó los 99 dólares por barril, un 36% más desde que empezó la guerra con Irán.\n* El tránsito de barcos por el estrecho de Ormuz cayó a un mínimo histórico por la escalada regional.",
+      "extended_context": "Ataques con drones y misiles atribuidos a los hutíes de Yemen alcanzaron instalaciones energéticas en Arabia Saudita a comienzos de septiembre de 2026, dejando al menos 73 civiles heridos y obligando a suspender operaciones en parte de la infraestructura petrolera. Medios estatales sauditas calificaron los ataques de \"terroristas\".\n\nEl episodio se suma a la escalada regional derivada de la guerra entre Estados Unidos, Israel e Irán, iniciada el 28 de febrero de 2026. El precio del petróleo Brent, que rondaba los 70 dólares por barril antes del conflicto, tocó los 99 dólares tras los ataques hutíes, un 36% de suba acumulada, mientras el crudo estadounidense WTI subió más de 2,7% hasta superar los 94 dólares.\n\nEl tránsito de buques por el estrecho de Ormuz, por donde circula una porción clave del petróleo y el gas mundial, cayó a niveles mínimos, con apenas 4 y 6 barcos registrados en dos días consecutivos frente a un tránsito normalmente muy superior. Analistas de bancos como Goldman Sachs y HSBC advirtieron que el Brent podría superar los 120 dólares si la escalada continúa.",
+      "links": [
+        { "name": "Al Jazeera", "url": "https://www-aljazeera-com.cdn.ampproject.org/v/s/www.aljazeera.com/amp/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "NBC News", "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-saudi-arabia-rcna596558" },
+        { "name": "CNN", "url": "https://edition.cnn.com/2026/09/08/middleeast/houthis-attack-saudi-arabia-yemen-intl-hnk" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/middle-east/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08/" },
+        { "name": "The Times of Israel", "url": "https://www-timesofisrael-com.cdn.ampproject.org/v/s/www.timesofisrael.com/houthi-attack-on-saudi-oil-facilities-wounds-73-some-operations-halted/amp/?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "The Jerusalem Post", "url": "https://www.jpost.com/middle-east/article-907894" }
+      ],
+      "related_terms": ["estrecho-de-ormuz"]
+    },
+    {
+      "id": "australia-ley-opt-out-algoritmos-redes-sociales",
+      "category": "negocios-tecnologia",
+      "title": "Australia permitirá desactivar los algoritmos de redes sociales",
+      "short_summary": "Los usuarios mayores de 16 podrán elegir un feed sin recomendaciones algorítmicas.",
+      "image": "https://pagecreative.co.uk/wp-content/uploads/2023/01/Pic-1024x690.jpg",
+      "context": "* El proyecto \"My Feed, My Way\" obliga a las plataformas a ofrecer un feed sin algoritmo de recomendación.\n* Los usuarios mayores de 16 años podrán elegir ver solo contenido de las cuentas que siguen.\n* La ley también busca proteger a menores de contenido sobre trastornos alimentarios, violencia y desafíos peligrosos.",
+      "extended_context": "El Gobierno de Anthony Albanese presentó el 8 de septiembre de 2026 un proyecto de ley llamado \"My Feed, My Way\" (\"Mi feed, a mi manera\"), que obligará a las plataformas de redes sociales a ofrecerles a los usuarios mayores de 16 años la posibilidad de desactivar el feed personalizado por algoritmo y ver en cambio solo el contenido de las cuentas que eligen seguir.\n\nSegún el proyecto, las plataformas deberán notificar a usuarios nuevos y existentes sobre esta opción. La iniciativa se enmarca en la ley de \"Deber de Cuidado Digital\" (Digital Duty of Care), que también busca proteger a los menores de contenidos que promuevan trastornos alimentarios, ideas hostiles hacia las mujeres, pornografía, delitos o desafíos peligrosos y que generen angustia psicológica grave.\n\nLas multas previstas por incumplimiento podrían llegar a 109,2 millones de dólares australianos (unos 78,6 millones de dólares estadounidenses). La medida se suma a otras regulaciones recientes de Australia sobre tecnología, como la prohibición de redes sociales para menores de 16 años, y profundiza la tensión del país con las grandes plataformas tecnológicas.",
+      "links": [
+        { "name": "CNBC", "url": "https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2026/09/08/australia-social-media-algorithm-opt-out.html?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia" },
+        { "name": "Reuters", "url": "https://www.reuters.com/business/media-telecom/australia-targets-social-media-algorithms-with-new-user-choice-rules-2026-09-08/" },
+        { "name": "Al Jazeera", "url": "https://www-aljazeera-com.cdn.ampproject.org/v/s/www.aljazeera.com/amp/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" }
+      ]
+    },
+    {
+      "id": "estudio-vincula-personalidad-genetica",
+      "category": "ciencia-ambiente",
+      "title": "Un estudio vincula la personalidad con la genética",
+      "short_summary": "Analizó a más de un millón de personas, pero los genes explican solo una parte.",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt51399eac082511cb/6a985843da48d5471a095d2b/GettyImages-2184331374.jpg?branch=production&width=1080&quality=75&auto=webp&crop=3:2",
+      "context": "* Un estudio publicado en Nature analizó datos genéticos y de personalidad de más de un millón de personas.\n* Identificó más de 1.200 variantes genéticas ligadas a los cinco grandes rasgos de la personalidad humana.\n* Los genes explican apenas entre el 5% y el 13% de esas diferencias; el resto depende del ambiente.",
+      "extended_context": "Un estudio publicado el 2 de septiembre de 2026 en la revista Nature analizó datos genéticos y cuestionarios de personalidad de más de un millón de personas de ascendencia europea y africana, la muestra más grande hasta la fecha sobre el tema. El equipo, liderado por el investigador Ted Schwaba, de la Universidad Estatal de Michigan, identificó más de 1.200 variantes genéticas asociadas a los cinco grandes rasgos de personalidad: extraversión, apertura a la experiencia, amabilidad, neuroticismo y responsabilidad.\n\nSegún el estudio, las variantes genéticas comunes explican apenas entre el 5% y el 9% de las diferencias de personalidad entre las personas, un porcentaje que sube a cerca del 13% al ajustar por errores de medición, muy por debajo del 40% a 60% que sugerían estudios previos con gemelos y familias. Los autores remarcan que los efectos genéticos individuales son \"muy pequeños y difusos\", y que ningún gen aislado puede predecir el comportamiento de una persona.\n\nEl hallazgo refuerza la idea de que la personalidad no se hereda de forma directa, ya que padres extrovertidos no necesariamente tienen hijos extrovertidos, y que el ambiente sigue siendo una fuerza determinante en la formación del carácter. Los investigadores también encontraron correlaciones entre ciertos perfiles genéticos y resultados de la vida real, como tasas de contagio de covid-19 en personas extrovertidas o preferencias de lugar de residencia según el rasgo dominante.",
+      "links": [
+        { "name": "Nature", "url": "https://idp.nature.com/authorize?response_type=cookie&client_id=grover&redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-026-10992-9" },
+        { "name": "Sci.News", "url": "https://www.sci.news/genetics/personality-genes-15041.html" },
+        { "name": "Time", "url": "https://time.com/article/2026/09/02/personality-is-linked-to-genes-study/" },
+        { "name": "The New York Times", "url": "https://www.nytimes.com/2026/09/03/science/genes-personality-traits.html" }
+      ]
+    },
+    {
+      "id": "canada-aranceles-represalia-eeuu-septiembre-2026",
+      "category": "geopolítica",
+      "title": "Canadá impone aranceles de represalia a EEUU",
+      "short_summary": "Responde a los aranceles de Trump con gravámenes de hasta 50% sobre decenas de productos.",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/23/55edb3bf-9ad4-4ceb-b2c2-b044be0b0467/thumbnail/1280x720/eb67feb5a4639c41cf5a634256e86b78/gettyimages-2281267274.jpg",
+      "context": "* Desde el 8 de septiembre, Canadá aplica aranceles de hasta 50% a productos como leche, perfumes y acero.\n* También alcanzan a quesos, alfombras y electrodomésticos con un 25%, y a montacargas con un 15%.\n* La medida responde a los aranceles de Trump contra Canadá por temas de drogas y migrantes.",
+      "extended_context": "Canadá impuso desde la medianoche del 8 de septiembre de 2026 una serie de aranceles de represalia contra Estados Unidos, después de que fracasaran las negociaciones comerciales entre ambos países. El Gobierno canadiense prometió igualar los gravámenes estadounidenses \"dólar por dólar\".\n\nLos nuevos aranceles alcanzan el 50% para productos como leche, perfumes, consolas de videojuegos, palos de golf, cañas de pescar, acero, aluminio, camperas y remeras; el 25% para quesos, alfombras y electrodomésticos como cocinas y aires acondicionados; y el 15% para montacargas y moldes industriales. Los productos del mar estadounidenses, incluidos en un principio, quedaron afuera de la lista final tras el reclamo de la industria langostera canadiense.\n\nLa medida responde a los aranceles del 50% que impuso Donald Trump contra bienes canadienses, con el argumento de que Canadá no hizo lo suficiente frente al tráfico de drogas y la migración irregular, además de nuevos aranceles del 50% anunciados sobre autopartes y acero canadienses a partir de enero. Economistas anticipan un impacto particular en fabricantes de Michigan e Indiana y en productores lácteos de Wisconsin y Vermont, aunque el comercio afectado representa una fracción menor del flujo comercial bilateral, de más de 700.000 millones de dólares anuales.",
+      "links": [
+        { "name": "CNBC", "url": "https://www-cnbc-com.cdn.ampproject.org/v/s/www.cnbc.com/amp/2026/09/08/canada-retaliatory-tariffs.html?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "CBS News", "url": "https://www.cbsnews.com/news/canada-retaliatory-tariffs-us-goods-milk-perfume-golf-clubs-trump/" },
+        { "name": "ABC News", "url": "https://abcnews-com.cdn.ampproject.org/v/s/abcnews.com/amp/Business/canadas-retaliatory-tariffs-set-hit-us-products-trump/story?id=136252017&amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump" }
+      ]
+    }
+  ]
+}
