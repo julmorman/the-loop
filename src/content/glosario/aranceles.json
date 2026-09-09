@@ -1,11 +1,11 @@
 {
-  "id": "tarifas",
-  "term": "Tarifas (aranceles de importación)",
+  "id": "aranceles",
+  "term": "Aranceles de importación",
   "short_description": "El impuesto que un país cobra sobre los productos que importa desde otros países, usado para proteger industrias locales o presionar políticamente.",
   "sections": [
     {
       "heading": "¿Qué es un arancel?",
-      "text": "Un arancel, también llamado tarifa de importación, es un impuesto que un país le cobra a los productos que compra en el exterior al momento de ingresar a su territorio. Lo paga formalmente la empresa importadora, pero en la práctica ese costo suele trasladarse, total o parcialmente, al precio final que paga el consumidor.\nEn Argentina, la palabra \"tarifa\" se usa habitualmente para hablar de los precios de servicios públicos como la luz, el gas o el agua. En el comercio internacional, en cambio, \"tarifa\" y \"arancel\" se usan como sinónimos para referirse a este impuesto a las importaciones."
+      "text": "Un arancel es un impuesto que un país le cobra a los productos que compra en el exterior al momento de ingresar a su territorio. Lo paga formalmente la empresa importadora, pero en la práctica ese costo suele trasladarse, total o parcialmente, al precio final que paga el consumidor."
     },
     {
       "heading": "¿Para qué se usan?",
