@@ -1,0 +1,25 @@
+{
+  "id": "pisa",
+  "term": "PISA",
+  "short_description": "La evaluación internacional de la OCDE que mide cada tres años los conocimientos en matemática, lectura y ciencias de estudiantes de 15 años.",
+  "sections": [
+    {
+      "heading": "¿Qué es?",
+      "text": "PISA (sigla en inglés de Programa Internacional para la Evaluación de Estudiantes) es un estudio organizado por la Organización para la Cooperación y el Desarrollo Económicos (OCDE) que mide los conocimientos y habilidades de estudiantes de 15 años en matemática, lectura y ciencias, con foco en su capacidad de aplicar lo aprendido a situaciones de la vida cotidiana, no solo de repetirlo de memoria."
+    },
+    {
+      "heading": "¿Cómo funciona?",
+      "text": "* Se toma cada tres años desde el año 2000 (a partir del ciclo 2025, la OCDE pasará a una frecuencia de cuatro años).\n* En la edición 2025 participaron 91 países y economías, con más de 760.000 estudiantes evaluados, representativos de unos 33 millones de adolescentes de 15 años en el mundo.\n* Es una evaluación muestral, no censal: no evalúa a todos los estudiantes ni a todas las escuelas, sino a una muestra representativa a nivel nacional, y sus resultados no identifican estudiantes ni escuelas en particular."
+    },
+    {
+      "heading": "Argentina y PISA",
+      "text": "Argentina participa de PISA desde el año 2000. En el operativo 2025 participaron 412 escuelas y unos 11.200 estudiantes de todo el país, seleccionados para representar al 87% de la población de 15 años. Los resultados de cada edición se publican aproximadamente un año después de tomada la prueba."
+    }
+  ],
+  "images": [],
+  "sources": [
+    { "name": "OCDE: PISA, Programme for International Student Assessment", "url": "https://www.oecd.org/en/about/programmes/pisa.html" },
+    { "name": "OCDE: PISA, Frequently Asked Questions (FAQs)", "url": "https://www.oecd.org/en/about/programmes/pisa/pisa-frequently-asked-questions-faqs.html" },
+    { "name": "Argentina.gob.ar: Evaluación PISA", "url": "https://www.argentina.gob.ar/educacion/evaluacion-e-informacion-educativa/evaluacion-pisa" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "proyeccion-equal-earth",
+  "term": "Proyección Equal Earth",
+  "short_description": "Un mapamundi creado en 2018 que muestra el tamaño real de los continentes, a diferencia de Mercator, que agranda las zonas cercanas a los polos.",
+  "sections": [
+    {
+      "heading": "¿Qué es una proyección cartográfica?",
+      "text": "La Tierra es una esfera, y no existe ninguna forma de representarla en un mapa plano sin distorsionar algo: el tamaño de las superficies, su forma, las distancias o los ángulos. Cada proyección cartográfica es un método matemático distinto para pasar de la esfera al plano, y prioriza corregir algunas de esas distorsiones a costa de otras."
+    },
+    {
+      "heading": "¿Qué problema tiene la proyección de Mercator?",
+      "text": "* La proyección de Mercator, creada en 1569 y todavía muy usada en mapas escolares y en internet, conserva bien los ángulos (por eso fue útil para la navegación), pero agranda mucho las superficies a medida que se alejan del ecuador.\n* Esto hace que países y regiones cercanos a los polos, como Groenlandia, Canadá o Rusia, se vean mucho más grandes de lo que son en la realidad, mientras que África, América Latina y el sudeste asiático se ven más chicos de lo real.\n* Groenlandia, por ejemplo, aparece en un mapa de Mercator casi del mismo tamaño que África, aunque el continente africano es en realidad unas 14 veces más grande."
+    },
+    {
+      "heading": "¿Qué es la proyección Equal Earth?",
+      "text": "Equal Earth es una proyección creada en 2018 por los cartógrafos Bojan Šavrič, Tom Patterson y Bernhard Jenny como respuesta a ese problema. A diferencia de Mercator, es una proyección de \"área equivalente\": conserva el tamaño relativo real de los continentes entre sí, aunque para lograrlo distorsiona un poco más sus formas y ángulos.\nSus creadores buscaron además que fuera visualmente atractiva y fácil de leer, a diferencia de otra proyección de área equivalente anterior, la de Gall-Peters, que muchos consideraban con formas poco naturales."
+    }
+  ],
+  "images": [],
+  "sources": [
+    { "name": "Equal Earth: The Equal Earth Projection", "url": "https://equal-earth.com/equal-earth-projection.html" },
+    { "name": "map-projections.net: The Equal Earth Projection", "url": "https://blog.map-projections.net/the-equal-earth-projection" },
+    { "name": "Esri: Equal Earth (ArcGIS Pro Documentation)", "url": "https://doc.esri.com/en/arcgis-pro/latest/help/mapping/properties/equal-earth.html" }
+  ]
+}

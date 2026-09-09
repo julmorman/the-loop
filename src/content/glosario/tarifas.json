@@ -1,0 +1,25 @@
+{
+  "id": "tarifas",
+  "term": "Tarifas (aranceles de importación)",
+  "short_description": "El impuesto que un país cobra sobre los productos que importa desde otros países, usado para proteger industrias locales o presionar políticamente.",
+  "sections": [
+    {
+      "heading": "¿Qué es un arancel?",
+      "text": "Un arancel, también llamado tarifa de importación, es un impuesto que un país le cobra a los productos que compra en el exterior al momento de ingresar a su territorio. Lo paga formalmente la empresa importadora, pero en la práctica ese costo suele trasladarse, total o parcialmente, al precio final que paga el consumidor.\nEn Argentina, la palabra \"tarifa\" se usa habitualmente para hablar de los precios de servicios públicos como la luz, el gas o el agua. En el comercio internacional, en cambio, \"tarifa\" y \"arancel\" se usan como sinónimos para referirse a este impuesto a las importaciones."
+    },
+    {
+      "heading": "¿Para qué se usan?",
+      "text": "* Para proteger a las industrias locales de la competencia extranjera, encareciendo los productos importados frente a los fabricados en el país.\n* Para generar ingresos fiscales para el Estado.\n* Como herramienta de presión política o de negociación entre países, por ejemplo para responder a otra medida comercial o exigir cambios en políticas de otro gobierno."
+    },
+    {
+      "heading": "¿Cómo se regulan a nivel internacional?",
+      "text": "La Organización Mundial del Comercio (OMC) establece reglas comunes para sus países miembros, entre ellas el principio de \"nación más favorecida\": salvo excepciones, un país que le aplica un arancel a un producto de otro país miembro debe aplicar ese mismo arancel a todos los demás miembros por igual. Los países también negocian \"aranceles consolidados\", es decir, techos máximos que se comprometen a no superar en el futuro."
+    }
+  ],
+  "images": [],
+  "sources": [
+    { "name": "OMC: Entender la OMC, Aranceles", "url": "https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm2_s.htm" },
+    { "name": "OMC: Aranceles, portada", "url": "https://www.wto.org/spanish/tratop_s/tariffs_s/tariffs_s.htm" },
+    { "name": "OMC: Cómo obtener datos arancelarios", "url": "https://www.wto.org/spanish/tratop_s/tariffs_s/tariff_data_s.htm" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "huties",
+  "term": "Hutíes",
+  "short_description": "Un movimiento armado chiita yemenita, aliado de Irán, que controla el norte de Yemen desde 2014 y atacó barcos en el mar Rojo y objetivos en el Golfo.",
+  "sections": [
+    {
+      "heading": "¿Quiénes son?",
+      "text": "Los hutíes, que se autodenominan \"Ansar Alá\" (\"partidarios de Dios\"), son un movimiento político y armado surgido en los años noventa entre la minoría zaidí, una rama del islam chiita presente en el norte de Yemen. El movimiento tomó su nombre de su fundador, Hussein al Houthi."
+    },
+    {
+      "heading": "¿Cómo llegaron al poder?",
+      "text": "* En 2014 los hutíes tomaron la capital yemenita, Saná, en el marco de un levantamiento contra el gobierno reconocido internacionalmente.\n* Desde entonces controlan gran parte del norte y el oeste de Yemen, incluida la capital, y sostienen una guerra civil contra una coalición liderada por Arabia Saudita que respalda al gobierno yemenita reconocido por la ONU.\n* Estados Unidos los designó como organización terrorista."
+    },
+    {
+      "heading": "¿Qué relación tienen con Irán?",
+      "text": "Irán es su principal aliado político y militar: le brinda entrenamiento, asesoramiento técnico y componentes para la fabricación de misiles y drones, aunque los hutíes sostienen que actúan de forma autónoma. Esta alianza los ubica dentro de lo que Irán suele llamar el \"Eje de la Resistencia\", una red de grupos aliados en la región."
+    },
+    {
+      "heading": "¿Por qué aparecen en las noticias internacionales?",
+      "text": "Desde noviembre de 2023, los hutíes atacaron de forma reiterada barcos comerciales en el mar Rojo, cerca del estrecho de Bab el Mandeb, como forma de presión vinculada al conflicto en Gaza. Estos ataques obligaron a numerosas navieras a desviar sus rutas, encareciendo el comercio internacional, y en distintos momentos derivaron en enfrentamientos directos entre los hutíes y fuerzas de Estados Unidos, Israel y Arabia Saudita."
+    }
+  ],
+  "images": [],
+  "sources": [
+    { "name": "Council on Foreign Relations: Global Conflict Tracker, War in Yemen", "url": "https://www.cfr.org/global-conflict-tracker/conflict/war-yemen" },
+    { "name": "El Orden Mundial: ¿Quiénes son los hutíes de Yemen?", "url": "https://elordenmundial.com/quienes-son-huties-yemen/" },
+    { "name": "CNN en Español: ¿Quiénes son los hutíes, el grupo rebelde de Yemen respaldado por Irán?", "url": "https://cnnespanol.cnn.com/2026/03/28/mundo/quienes-son-huties-yemen-iran-trax" }
+  ]
+}

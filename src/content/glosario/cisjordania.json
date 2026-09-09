@@ -1,0 +1,29 @@
+{
+  "id": "cisjordania",
+  "term": "Cisjordania",
+  "short_description": "El territorio entre el río Jordán e Israel, ocupado por Israel desde 1967 y reclamado por Palestina como parte de su futuro Estado.",
+  "sections": [
+    {
+      "heading": "¿Qué es y dónde queda?",
+      "text": "Cisjordania es un territorio de entre 20 y 40 kilómetros de ancho, ubicado al este de Israel, entre el río Jordán y el Mar Muerto por un lado y la llamada Línea Verde por el otro. Limita al este con Jordania, de donde toma parte de su nombre."
+    },
+    {
+      "heading": "¿Qué pasó en 1967 y qué dice la ONU?",
+      "text": "Israel ocupó Cisjordania durante la Guerra de los Seis Días, en junio de 1967, después de derrotar a los ejércitos de países árabes vecinos y desplazar el control que tenía Jordania sobre el territorio desde 1948.\n* La Resolución 242 del Consejo de Seguridad de la ONU, de noviembre de 1967, pidió el retiro israelí de los territorios ocupados a cambio de paz con los países vecinos, un principio conocido como \"paz por territorios\".\n* Naciones Unidas y la mayor parte de la comunidad internacional consideran a Cisjordania territorio ocupado por Israel y no reconocen la soberanía israelí sobre él, salvo en el caso de Jerusalén Este, que Israel anexó de forma unilateral y que tampoco cuenta con reconocimiento internacional."
+    },
+    {
+      "heading": "¿Cómo se administra hoy?",
+      "text": "Desde los Acuerdos de Oslo de 1993 y 1995, el territorio se divide en tres zonas con distinto nivel de control:\n* **Área A**: bajo control civil y de seguridad de la Autoridad Palestina, incluye las principales ciudades palestinas.\n* **Área B**: control civil palestino y control de seguridad compartido con Israel.\n* **Área C**, la más extensa, bajo control civil y militar israelí casi total, donde se concentra la mayoría de los asentamientos israelíes."
+    },
+    {
+      "heading": "¿Qué son los asentamientos?",
+      "text": "Los asentamientos son poblados construidos por Israel en Cisjordania desde 1967, habitados por ciudadanos israelíes. La mayor parte de la comunidad internacional los considera ilegales según el derecho internacional, mientras que el Gobierno israelí sostiene posiciones distintas sobre su legalidad según la zona. Su expansión es uno de los principales obstáculos que suelen señalarse en las negociaciones por un eventual Estado palestino."
+    }
+  ],
+  "images": [],
+  "sources": [
+    { "name": "Council on Foreign Relations: Global Conflict Tracker, Israeli-Palestinian Conflict", "url": "https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict" },
+    { "name": "OCHA (Naciones Unidas): West Bank", "url": "https://www.ochaopt.org/content/west-bank" },
+    { "name": "ONU: UNISPAL, Question of Palestine", "url": "https://www.un.org/unispal/history/" }
+  ]
+}
