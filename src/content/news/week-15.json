@@ -1,0 +1,182 @@
+{
+  "id": "week-15",
+  "date": "24 de Septiembre",
+  "funny_title": "Semana 15",
+  "news": [
+    {
+      "id": "agosto-2026-mes-mas-caluroso-registrado",
+      "category": "ciencia-ambiente",
+      "title": "Agosto de 2026 fue el más caluroso registrado",
+      "short_summary": "La temperatura global superó en 1,32°C el promedio del siglo XX, un nuevo récord.",
+      "image": "https://www.reuters.com/resizer/v2/UPWVOHVEQJJCFJJE73OAUESH3U.jpg?auth=17b1f93f32cff97b27860265eb165c1179db5da2258ff5c2d49fdfc3ccb37471&width=1200&quality=80",
+      "context": "* Según la NOAA, agosto de 2026 tuvo la temperatura global más alta desde que hay registros, iniciados en 1850.\n* La temperatura superó en 1,32°C el promedio del siglo XX, superando por poco los récords previos de 2023 y 2024.\n* Fue el agosto número 48 consecutivo con temperaturas por encima del promedio histórico, en un contexto de El Niño.",
+      "extended_context": "Agosto de 2026 fue el mes de agosto más caluroso desde que existen registros globales de temperatura, según coincidieron la NOAA (la agencia meteorológica de Estados Unidos), el servicio climático europeo Copernicus y la NASA. La temperatura superficial global promedio estuvo 1,32°C por encima del promedio del siglo XX, superando por apenas 0,08°C los récords previos, empatados entre 2023 y 2024.\n\nEl hemisferio norte tuvo además su verano boreal (junio a agosto) más caluroso registrado, mientras que el hemisferio sur atravesó un invierno cercano al récord de calidez. La temperatura superficial del mar también alcanzó un máximo histórico, impulsada en parte por condiciones de El Niño en el Pacífico central y oriental.\n\nCon este registro, agosto de 2026 se convirtió en el 48° mes de agosto consecutivo con temperaturas por encima del promedio del siglo XX: el último agosto \"frío\" (por debajo de ese promedio) fue en 1978. Los diez agostos más calurosos de la serie histórica ocurrieron todos a partir de 2016.",
+      "links": [
+        { "name": "The New York Times", "url": "https://www.nytimes.com/2026/09/09/climate/august-hottest-month-global-warming.html" },
+        { "name": "CNN", "url": "https://edition.cnn.com/2026/09/10/climate/hottest-august-el-nino-climate-change" },
+        { "name": "Reuters", "url": "https://www.reuters.com/sustainability/cop/august-was-worlds-joint-hottest-month-record-scientists-say-2026-09-10/" },
+        { "name": "BBC News", "url": "https://www.bbc.com/news/articles/c93vde0n2l4o" }
+      ]
+    },
+    {
+      "id": "inflacion-agosto-2026-argentina",
+      "category": "nacional",
+      "title": "La inflación de agosto, la más baja en un año",
+      "short_summary": "El IPC subió 1,7% en agosto y el acumulado del año llegó a 21,3%.",
+      "image": "https://www.lanacion.com.ar/resizer/v2/la-inflacion-desacelero-en-EKAKIQUMH5HGXB5MV3FAH5M2CE.jpg?auth=15aef8db11591bd54481e967fb6deba86f4b709c21ad79b72bc5af98de5860d7&width=1200&height=800&quality=70&smart=true",
+      "context": "* El INDEC informó que la inflación de agosto fue del 1,7%, la variación mensual más baja desde julio de 2025.\n* Los precios acumulan una suba del 21,3% en el año y del 33,5% en los últimos doce meses.\n* Vivienda, agua, electricidad y gas fueron los rubros que más subieron, mientras que ropa y calzado bajaron de precio.",
+      "extended_context": "El Instituto Nacional de Estadística y Censos (INDEC) informó el 10 de septiembre de 2026 que la inflación de agosto fue del 1,7%, la variación mensual más baja en más de un año. La inflación núcleo, que excluye precios estacionales y regulados, fue del 1,8%, sin cambios respecto de julio.\n\nCon este dato, los precios acumulan una suba del 21,3% en lo que va de 2026 y del 33,5% en los últimos doce meses. En julio la inflación había sido del 2,1%, por lo que la desaceleración de agosto se explica en buena parte por la baja estacional de rubros como turismo e indumentaria.\n\nLos rubros que más subieron fueron vivienda, agua, electricidad y gas (2,8%) y educación (2,5%), mientras que prendas de vestir y calzado registraron una baja del 0,6% y recreación y cultura no tuvo variación. Consultoras privadas habían anticipado cifras similares para el mes.",
+      "links": [
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/economia/la-inflacion-fue-de-17-en-agosto-la-mas-baja-en-mas-de-un-ano-nid10092026/" },
+        { "name": "Página 12", "url": "https://www.pagina12.com.ar/2026/09/10/la-inflacion-de-agosto-fue-17-segun-el-indec/" },
+        { "name": "TN", "url": "https://tn-com-ar.cdn.ampproject.org/v/s/tn.com.ar/economia/2026/09/10/la-inflacion-de-agosto-fue-del-17-y-acumula-un-213-en-lo-que-va-del-ano/?outputType=amp&amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" }
+      ]
+    },
+    {
+      "id": "arranca-81-asamblea-general-onu",
+      "category": "geopolítica",
+      "title": "Arranca la 81ª Asamblea General de la ONU",
+      "short_summary": "Los líderes mundiales debaten Ucrania, Medio Oriente, cambio climático e inteligencia artificial.",
+      "image": "https://www.infobae.com/resizer/v2/NMMXTGLTSZBVJCAP5TOB7I7A3E.jpg?auth=035c430bef89702286e2d168613697246aebc1f837456c10099076cb55b53411&smart=true&width=577&height=385&quality=85",
+      "context": "* La 81ª Asamblea General de la ONU comenzó el 22 de septiembre en Nueva York con su semana de discursos.\n* La agenda incluye la cuestión palestina, la guerra en Ucrania, la guerra con Irán y el cambio climático.\n* También hay reuniones paralelas sobre inteligencia artificial, el aumento del nivel del mar y las armas nucleares.",
+      "extended_context": "La 81ª Asamblea General de las Naciones Unidas (UNGA81) comenzó su semana de alto nivel el 22 de septiembre de 2026 en la sede de la organización en Nueva York, con los discursos de los jefes de Estado y de gobierno de los países miembros. La sesión llega en medio de una agenda internacional particularmente cargada.\n\nEntre los temas centrales del debate general figuran la cuestión de Palestina, la guerra de Rusia en Ucrania, la guerra entre Estados Unidos, Israel e Irán, la crisis climática y la justicia social. Está previsto que participen, entre otros, mandatarios de Argentina, Ecuador, Honduras, Paraguay, República Dominicana, Venezuela, España, Ucrania e Irán.\n\nEn paralelo a los discursos, se realizan reuniones de alto nivel sobre temas específicos: el Consejo de Seguridad debate la seguridad internacional en la era de la inteligencia artificial, y hay minicumbres sobre el derecho al desarrollo (que cumple 40 años) y sobre la crisis climática.",
+      "links": [
+        { "name": "ONU Noticias", "url": "https://news.un.org/es/story/2026/09/1541929" },
+        { "name": "DW", "url": "https://www.dw.com/es/arranca-en-nueva-york-la-81-asamblea-general-de-la-onu/a-79374251" },
+        { "name": "CNN en Español", "url": "https://cnnespanol.cnn.com/2026/09/22/mundo/live-news/asamblea-general-onu-en-vivo-trump-lula-da-silva-trax" }
+      ]
+    },
+    {
+      "id": "eeuu-reconoce-armas-en-el-espacio",
+      "category": "geopolítica",
+      "title": "EEUU reconoce que tiene armas en el espacio",
+      "short_summary": "Es la primera vez que un país admite tener capacidades militares desplegadas en órbita.",
+      "image": "https://static.dw.com/image/79268847_605.webp",
+      "context": "* El secretario de la Fuerza Aérea, Troy Meink, confirmó que Estados Unidos tiene armas de control espacial en órbita.\n* Expertos creen que se trata sobre todo de interferencia electrónica, para no generar basura espacial con impactos físicos.\n* El Tratado del Espacio Exterior de 1967 prohíbe las armas nucleares en órbita, pero no otro tipo de armamento.",
+      "extended_context": "El secretario de la Fuerza Aérea de Estados Unidos, Troy Meink, confirmó el 14 de septiembre de 2026 que el país cuenta con \"armas de control espacial en órbita, capaces de defender a las fuerzas conjuntas ante acciones hostiles de un adversario\". Se trata de la primera vez que un país admite públicamente tener armamento desplegado en el espacio.\n\nEl Gobierno estadounidense no detalló qué tipo de armas son. Los expertos consultados por la prensa especulan con dos posibilidades principales: armas cinéticas (satélites diseñados para chocar o disparar contra objetivos hostiles) o interferidores electrónicos (jammers), capaces de bloquear comunicaciones satelitales sin generar residuos. La mayoría considera más probable la segunda opción, porque es coherente con la política estadounidense de evitar la basura espacial.\n\nEl Tratado del Espacio Exterior de 1967, que Estados Unidos firmó junto a decenas de países, prohíbe colocar armas de destrucción masiva en el espacio, pero no menciona otro tipo de armamento. Una prueba rusa de destrucción de un satélite en 2021 generó más de 1.800 fragmentos de basura espacial rastreables, lo que alimenta la preocupación por el riesgo de reacciones en cadena que podrían dañar la infraestructura satelital global.",
+      "links": [
+        { "name": "National Geographic", "url": "https://www.nationalgeographic.com/science/article/space-weapons-kinetic-jammer-debris" },
+        { "name": "DW", "url": "https://www.dw.com/es/ee-uu-reconoce-por-primera-vez-que-tiene-armas-de-control-espacial-en-%C3%B3rbita/a-79270980" },
+        { "name": "Eurasian Times", "url": "https://eurasiantimes.com/1967-outer-space-treaty-u-s-admits-weapons-in-space-why-are-china-russia-calling-it-a-violation/" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa" },
+        { "name": "CNN", "url": "https://edition.cnn.com/2026/09/15/science/us-space-force-weapons-capabilities-hnk" },
+        { "name": "BBC News", "url": "https://www.bbc.com/news/articles/ck790xg41ygro" }
+      ]
+    },
+    {
+      "id": "israel-destruye-tunel-hezbola-ali-al-taher",
+      "category": "geopolítica",
+      "title": "Israel destruye un gran complejo de túneles de Hezbolá",
+      "short_summary": "La demolición bajo la cresta de Ali al Taher generó un temblor de magnitud 4,1.",
+      "image": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg.webp",
+      "context": "* Israel destruyó un complejo subterráneo de más de 2 kilómetros bajo la cresta de Ali al Taher.\n* La demolición generó un temblor de magnitud 4,1 registrado por el Servicio Geológico de Estados Unidos.\n* El túnel albergaba cohetes, misiles y drones iraníes, y un centro de mando de la unidad Badr de Hezbolá.",
+      "extended_context": "El Ejército israelí anunció el 10 de septiembre de 2026 la destrucción de un complejo subterráneo de más de 2 kilómetros bajo la cresta de Ali al Taher, en el sur del Líbano, que según Israel funcionaba como infraestructura estratégica de Hezbolá construida durante dos décadas con financiamiento y planificación iraníes. La demolición fue tan potente que generó un temblor de magnitud 4,1 registrado por el Servicio Geológico de Estados Unidos, y vecinos de la zona reportaron explosiones y temblores fuertes.\n\nSegún Israel, el complejo albergaba decenas de cohetes, misiles y drones de fabricación iraní, junto con ametralladoras, misiles antitanque y cientos de minas y explosivos, además de un centro de mando de la unidad \"Badr\" de Hezbolá. Parte de los combatientes habría abandonado la zona antes del ataque, mientras que otros fueron alcanzados por ataques aéreos y de artillería.\n\nEl jefe del Estado Mayor israelí, teniente general Eyal Zamir, confirmó la operación y aclaró que las tropas israelíes no se retirarán de la llamada \"Línea Amarilla\" en el sur libanés (distinta de la línea homónima en Gaza) mientras el Ejército libanés no demuestre capacidad de controlar la zona por sus propios medios. Israel había anunciado la toma de la cresta la semana anterior; según autoridades de Beirut, los ataques israelíes en el Líbano mataron a más de 4.300 personas desde marzo de 2026.",
+      "links": [
+        { "name": "BBC News", "url": "https://www.bbc.com/news/articles/c4gl92lw8vpo" },
+        { "name": "Al Jazeera", "url": "https://www-aljazeera-com.cdn.ampproject.org/v/s/www.aljazeera.com/amp/video/newsfeed/2026/9/11/09-11-reported-israel-hezb-tunnels-lebanon-mp4?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/middle-east/israel-says-it-destroyed-hezbollah-underground-complex-lebanons-ali-al-taher-2026-09-10/" },
+        { "name": "France 24", "url": "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake" },
+        { "name": "The Times of Israel", "url": "https://www.timesofisrael.com/liveblog_entry/idf-chief-says-troops-maintain-full-control-of-south-lebanon-buffer-zone/" },
+        { "name": "Fox News", "url": "https://www.foxnews.com/video/6404896287112" }
+      ],
+      "related_terms": ["hezbollah"]
+    },
+    {
+      "id": "huties-avanzan-costa-roja-yemen-tension-arabia-saudita",
+      "category": "geopolítica",
+      "title": "Los hutíes escalan la tensión con Arabia Saudita",
+      "short_summary": "Avanzaron sobre la costa del mar Rojo y pusieron a prueba un pacto de defensa.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/10-09-2026_WHO_Yemen-04.jpg/image770x420cropped.jpg",
+      "context": "* Combatientes hutíes tomaron la localidad costera de Mocha y avanzaron sobre el resto de la costa yemenita del mar Rojo.\n* El avance pone a prueba el pacto de defensa mutua firmado el mes pasado entre Pakistán, Arabia Saudita y Turquía.\n* Pakistán, aliado de Arabia Saudita, intenta mediar con Irán para contener a los hutíes y evitar una escalada mayor.",
+      "extended_context": "Las tensiones entre Arabia Saudita y los hutíes de Yemen escalaron a mediados de septiembre de 2026, después de que combatientes hutíes llegaran al amanecer a la localidad costera de Mocha y avanzaran sobre el resto de la costa yemenita del mar Rojo, hasta hacerse con el control de toda esa franja. Días antes, ataques con drones y misiles hutíes habían herido a 73 personas e incendiado instalaciones petroleras en cuatro ciudades sauditas, uno de los golpes más duros de la guerra hasta ese momento.\n\nEl avance pone a prueba, por primera vez, el pacto de defensa mutua que Pakistán firmó el mes pasado con Arabia Saudita y Turquía, según el cual un ataque armado contra cualquiera de los tres países debe considerarse un ataque contra los tres. Pakistán, que mantiene una relación cercana tanto con Riad como con Teherán, evitó por ahora una respuesta militar y apostó a la vía diplomática.\n\nEl canciller iraní, Abbas Araghchi, mantuvo contactos telefónicos con el jefe de las Fuerzas de Defensa de Pakistán, mariscal de campo Asim Munir, en un intento de contener a los hutíes, a quienes Irán respalda política y militarmente. Voceros pakistaníes insistieron en que no se estaba considerando ninguna respuesta militar y llamaron a \"la moderación, el diálogo y la diplomacia\" para evitar una escalada mayor del conflicto regional.",
+      "links": [
+        { "name": "Reuters", "url": "https://www.reuters.com/world/asia-pacific/saudi-tensions-with-iran-backed-houthis-escalate-mediator-pakistan-faces-2026-09-11/" },
+        { "name": "AP News", "url": "https://apnews.com/article/iran-us-war-yemen-houthis-saudi-explainer-dc7d502443537f2c7ea42fe0b335f9af" },
+        { "name": "ONU Noticias", "url": "https://news.un.org/en/story/2026/09/1168309" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran" },
+        { "name": "Al Jazeera", "url": "https://www-aljazeera-com.cdn.ampproject.org/v/s/www.aljazeera.com/amp/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/" }
+      ],
+      "related_terms": ["huties"]
+    },
+    {
+      "id": "cumbre-brics-nueva-delhi-septiembre-2026",
+      "category": "geopolítica",
+      "title": "Cumbre del BRICS en Nueva Delhi",
+      "short_summary": "Los líderes buscaron una posición común sobre la guerra de EEUU e Israel contra Irán.",
+      "image": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/4f35/live/1a265920-ad91-11f1-bee3-b1eaca1dd464.jpg",
+      "context": "* La cumbre del BRICS se realizó los días 12 y 13 de septiembre en Nueva Delhi, India.\n* Participaron líderes de Brasil, Rusia, India, China, Sudáfrica, Irán, Emiratos Árabes Unidos, Arabia Saudita, Egipto, Etiopía e Indonesia.\n* El bloque no logró una postura unificada sobre la guerra contra Irán: sus miembros prefieren actuar de forma independiente.",
+      "extended_context": "La cumbre anual del BRICS se realizó los días 12 y 13 de septiembre de 2026 en Nueva Delhi, India, con la participación de líderes de Brasil, Rusia, India, China, Sudáfrica, Irán, Emiratos Árabes Unidos, Arabia Saudita, Egipto, Etiopía e Indonesia, entre ellos el presidente ruso Vladimir Putin.\n\nUno de los temas centrales fue buscar una posición común frente a la guerra que Estados Unidos e Israel sostienen contra Irán desde febrero de 2026. Irán, que se sumó al bloque en 2024 junto con Emiratos Árabes Unidos, había pedido en una reunión de cancilleres en mayo una condena explícita a las acciones estadounidenses e israelíes, pero el pedido no prosperó por la negativa de Emiratos Árabes Unidos.\n\nEl resultado volvió a evidenciar las divisiones internas del bloque: sus miembros suelen preferir preservar su libertad de acción individual antes que asumir posiciones conjuntas en política exterior y seguridad. Analistas describen al BRICS más como una plataforma para ganar autonomía frente a Occidente y acceder a financiamiento alternativo para el desarrollo, que como un bloque capaz de desafiar de forma unificada el orden internacional liderado por Estados Unidos.",
+      "links": [
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/11/bric-by-bric-has-brics-challenged-the-western-dominated-world" },
+        { "name": "BBC News", "url": "https://www.bbc.com/news/articles/c07lv53l7jjo" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/china/india-hosts-brics-summit-iran-war-tests-bloc-unity-2026-09-10/" },
+        { "name": "DW", "url": "https://amp-dw-com.cdn.ampproject.org/v/s/amp.dw.com/en/indias-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-09-09/brics-2026-what-to-know-about-the-summit-member-states-tensions-with-trump" },
+        { "name": "Nikkei Asia", "url": "https://asia.nikkei.com/spotlight/policy-asia/brics-summit-marks-dual-milestones-and-tests-limits-of-cohesion" },
+        { "name": "The Times of India", "url": "https://timesofindia-indiatimes-com.cdn.ampproject.org/v/s/timesofindia.indiatimes.com/business/india-business/local-currencies-global-trade-us-sanctions-pm-modi-putin-pezeshkian-send-a-message-to-trump/amp_articleshow/134069432.cms?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" }
+      ]
+    },
+    {
+      "id": "escocia-gales-irlanda-norte-declaracion-independencia",
+      "category": "geopolítica",
+      "title": "Escocia, Gales e Irlanda del Norte piden independizarse",
+      "short_summary": "Sus líderes firmaron una declaración conjunta pidiendo al Reino Unido que prepare su salida.",
+      "image": "https://dims.apnews.com/dims4/default/3e1dba3/2147483647/strip/true/crop/3936x2632+0+0/resize/1534x1026!/format/webp/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2F30%2Fbd99a6384b602f1ed22fb0d6492a%2F934072c023d348f795e7fd9d3d50f708",
+      "context": "* Los líderes de los partidos nacionalistas de Escocia, Gales e Irlanda del Norte firmaron una declaración conjunta.\n* Piden al Gobierno británico que prepare y facilite la independencia de los tres territorios respecto del Reino Unido.\n* La declaración llegó días después de que Donald Trump expresara su apoyo a la reunificación de Irlanda.",
+      "extended_context": "Los líderes de los principales partidos nacionalistas de Escocia (John Swinney, del SNP), Gales (Rhun ap Iorwerth, de Plaid Cymru) e Irlanda del Norte (Michelle O'Neill, del Sinn Féin) firmaron el 13 de septiembre de 2026 un memorando conjunto en el que piden al Gobierno británico que \"prepare, planifique y facilite\" la independencia de sus territorios respecto del Reino Unido. Los tres firmaron como líderes partidarios, no en su carácter de jefes de gobierno.\n\nEl documento aborda temas como economía, energía, la relación con la Unión Europea y el derecho a la autodeterminación, y plantea que Escocia y Gales podrían sumarse a la UE como nuevos miembros, mientras que Irlanda del Norte lo haría como parte de la República de Irlanda. Es la primera vez que Escocia, Gales e Irlanda del Norte tienen, al mismo tiempo, a sus principales referentes políticos alineados a favor de la independencia.\n\nLa declaración se conoció días después de que el presidente estadounidense, Donald Trump, expresara su respaldo a una eventual reunificación de Irlanda. El primer ministro británico, Andy Burnham, respondió que, por ahora, un nuevo referéndum de independencia escocesa está \"fuera de discusión\".",
+      "links": [
+        { "name": "AP News", "url": "https://apnews.com/article/wales-scotland-northern-ireland-independence-uk-devolution-4242b7fd6987520211562a2250f093a1" },
+        { "name": "BBC Mundo", "url": "https://www.bbc.com/mundo/articles/cqzjz0pjedxro" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com/politics/2026/sep/13/first-ministers-to-affirm-right-to-seek-independence-from-the-uk" },
+        { "name": "DW", "url": "https://www.dw.com/es/l%C3%ADderes-de-escocia-gales-e-irlanda-del-norte-reino-unido-llega-a-su-fin/a-79259353" }
+      ]
+    },
+    {
+      "id": "rusia-ataca-tren-pasajeros-frontera-polonia",
+      "category": "geopolítica",
+      "title": "Un dron ruso impacta un tren de pasajeros",
+      "short_summary": "El ataque ocurrió a dos kilómetros de la frontera con Polonia; no hubo víctimas.",
+      "image": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/4e1a/live/333f6260-b045-11f1-b8b3-61fcc3f5ed40.jpg.webp",
+      "context": "* Un dron ruso impactó la locomotora de un tren rumbo a Varsovia, cerca de la frontera con Polonia.\n* No hubo heridos, aunque parte del tren fue evacuado; entre los pasajeros viajaba el expresidente británico Boris Johnson.\n* El ataque fue parte de una ofensiva rusa con más de 450 drones esa misma noche.",
+      "extended_context": "Un dron ruso impactó el 13 de septiembre de 2026 la locomotora de un tren de pasajeros que viajaba de Kiev a Varsovia, a apenas 2 kilómetros de la frontera entre Ucrania y Polonia, en la región de Volinia. La empresa ferroviaria ucraniana Ukrzaliznycia confirmó el impacto y no reportó víctimas, aunque parte de la formación fue evacuada como medida de precaución.\n\nEntre los pasajeros viajaban diplomáticos, académicos, legisladores alemanes y el expresidente británico Boris Johnson, además de un asesor del canciller alemán Friedrich Merz. Una alerta previa había permitido tomar medidas de protección antes del impacto.\n\nEl ataque al tren fue parte de una ofensiva rusa masiva esa misma noche, con más de 450 drones lanzados contra infraestructura ucraniana, que dejó al menos 3 muertos y 36 heridos en el país. Fue el segundo día consecutivo de ataques rusos contra la red ferroviaria de Ucrania. Polonia desplegó aviones militares en respuesta, y el canciller ucraniano pidió sanciones económicas totales contra la industria militar rusa, al advertir que el \"terrorismo ruso golpea las puertas de la Unión Europea y la OTAN\".",
+      "links": [
+        { "name": "DW", "url": "https://amp-dw-com.cdn.ampproject.org/v/s/amp.dw.com/es/rusia-ataca-tren-de-pasajeros-a-2-km-de-la-frontera-con-polonia/a-79252241?amp_js_v=0.1&amp_gsa=1#webview=1&cap=swipe" },
+        { "name": "Euronews", "url": "https://es.euronews.com/my-europe/2026/09/13/un-dron-ruso-impacta-contra-un-tren-de-pasajeros-rumbo-a-varsovia-a-2-km-de-la-frontera-co" },
+        { "name": "France 24", "url": "https://www.france24.com/es/video/20260913-rusia-ataca-ferrocarril-cerca-a-la-frontera-de-ucrania-con-polonia-y-prende-las-alarmas-de-la-otan" },
+        { "name": "BBC Mundo", "url": "https://www.bbc.com/mundo/articles/ckg0dr4ek99o" }
+      ]
+    },
+    {
+      "id": "gobierno-envia-ley-soberania-nacional-malvinas",
+      "category": "nacional",
+      "title": "El Gobierno envía al Congreso la ley de soberanía",
+      "short_summary": "Endurece las sanciones por explotar recursos en Malvinas y crea un Consejo de Seguridad Nacional.",
+      "image": "https://chequeado.com/wp-content/uploads/2026/09/Desinformacion-nuevo-2026-09-17T185458.438.webp",
+      "context": "* El 17 de septiembre, el Gobierno envió a Diputados el proyecto de ley de Defensa de la Soberanía Nacional.\n* Prevé penas de hasta 20 años de cárcel para quienes exploten recursos naturales sin autorización en Malvinas y sus aguas.\n* También crea un Consejo de Seguridad Nacional y amplía las causas que habilitan una intervención de las Fuerzas Armadas.",
+      "extended_context": "El Gobierno de Javier Milei envió el 17 de septiembre de 2026 a la Cámara de Diputados el proyecto de ley de Defensa de la Soberanía Nacional, dos semanas después del discurso presidencial por cadena nacional sobre Malvinas. El proyecto, de 40 páginas, fue redactado por el asesor presidencial Santiago Caputo y la secretaria Legal y Técnica, María Ibarzábal.\n\nLa iniciativa reemplaza la Ley 26.659 y amplía su alcance: ya no se limita a sancionar la actividad hidrocarburífera no autorizada en la plataforma continental argentina, sino cualquier explotación de recursos naturales en la zona de las islas Malvinas, Georgias del Sur y Sandwich del Sur. Prevé multas de entre 4.000 y 500.000 barriles de petróleo equivalente e inhabilitaciones de entre 5 y 20 años, además de penas de prisión de hasta 20 años para quienes exploren o exploten recursos no renovables sin autorización argentina.\n\nEl proyecto también amplía la definición de Defensa Nacional para incluir \"riesgos, amenazas y desafíos\" más allá de agresiones militares externas, habilita a las Fuerzas Armadas a intervenir en la protección de infraestructura crítica, y crea nuevos delitos vinculados al financiamiento extranjero de campañas electorales y a las \"campañas coordinadas de desinformación\" impulsadas por Estados u organizaciones extranjeras. Además crea un Consejo de Seguridad Nacional presidido por el presidente de la Nación. Su tratamiento en comisión estaba previsto para la semana del 7 de octubre.",
+      "links": [
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/politica/el-gobierno-envio-el-proyecto-de-ley-de-defensa-de-la-soberania-de-las-islas-malvinas-a-la-camara-de-nid17092026/" },
+        { "name": "Chequeado", "url": "https://chequeado.com/el-explicador/ley-de-defensa-de-la-soberania-nacional-que-propone-el-gobierno-sobre-malvinas-fuerzas-armadas-e-influencia-extranjera/" },
+        { "name": "Infobae", "url": "https://www.infobae.com/politica/2026/09/18/ley-de-soberania-nacional-como-el-gobierno-busca-endurecer-la-politica-sobre-malvinas-y-redisenar-la-seguridad-y-la-defensa/" },
+        { "name": "Parlamentario", "url": "https://www.parlamentario.com/2026/09/17/los-10-puntos-principales-de-la-ley-de-defensa-de-la-soberania-nacional/" }
+      ]
+    },
+    {
+      "id": "senado-aprueba-ley-inocencia-fiscal-ii",
+      "category": "nacional",
+      "title": "El Senado aprueba la ley de Inocencia Fiscal II",
+      "short_summary": "Elimina los topes de ingresos y patrimonio para blanquear dólares fuera del sistema.",
+      "image": "https://dptdsbsas.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/09/18090514/senaddo.jpg",
+      "context": "* El Senado convirtió en ley, con 44 votos a favor y 23 en contra, la segunda versión de Inocencia Fiscal.\n* La nueva versión elimina los topes de ingresos y patrimonio que excluían a los grandes contribuyentes de la primera edición.\n* El objetivo declarado es sumar al circuito legal unos 170.000 millones de dólares que hoy están fuera del sistema.",
+      "extended_context": "El Senado convirtió en ley el 17 de septiembre de 2026, con 44 votos a favor y 23 en contra, la segunda versión del Régimen de Inocencia Fiscal, impulsado por el Gobierno de Javier Milei para incentivar la exteriorización de dólares que están fuera del sistema financiero formal. Votaron a favor La Libertad Avanza, el PRO, la UCR, Provincias Unidas y varios bloques provinciales.\n\nA diferencia de la primera versión, sancionada en diciembre de 2025, la nueva ley elimina los topes de ingresos (más de 1.000 millones de pesos) y patrimonio (más de 10.000 millones de pesos) que excluían a los grandes contribuyentes del régimen: ahora, casi cualquier persona puede sumarse, con la excepción de los grandes contribuyentes nacionales y de quienes ejercieron cargos públicos en los últimos cinco años.\n\nEl régimen no es un blanqueo de capitales tradicional: no ofrece perdón explícito a cambio de un impuesto especial, sino que cambia el criterio de fiscalización de la Agencia de Recaudación y Control Aduanero (ARCA), que pasa a presumir que el contribuyente dijo la verdad salvo que pruebe lo contrario. El Gobierno estima que la iniciativa podría atraer al circuito formal unos 170.000 millones de dólares. Bajo la primera versión del régimen ya se habían inscripto 400.000 contribuyentes.",
+      "links": [
+        { "name": "Diputados Buenos Aires", "url": "https://diputadosbsas.com.ar/senado-sancion-la-ley-de-inocencia-fiscal-ii/" },
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/politica/senado-el-oficialismo-busca-convertir-en-ley-los-cambios-al-regimen-de-inocencia-fiscal-nid17092026/" },
+        { "name": "Parlamentario", "url": "https://www.parlamentario.com/2026/09/17/la-camara-alta-convirtio-en-ley-el-proyecto-de-inocencia-fiscal-ii/" },
+        { "name": "TN", "url": "https://tn.com.ar/politica/2026/09/17/el-oficialismo-consiguio-quorum-en-el-senado-e-intentara-sancionar-la-ley-de-inocencia-fiscal-ii/" }
+      ],
+      "related_terms": ["regimen-de-inocencia-fiscal"]
+    }
+  ]
+}
