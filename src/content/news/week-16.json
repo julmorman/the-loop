@@ -1,0 +1,173 @@
+{
+  "id": "week-16",
+  "date": "24 de Octubre",
+  "funny_title": "Semana 16",
+  "news": [
+    {
+      "id": "inflacion-septiembre-2026-argentina",
+      "category": "nacional",
+      "title": "La inflación de septiembre fue del 1,9%",
+      "short_summary": "Volvió a acelerarse después del 1,7% de agosto, empujada por los servicios regulados.",
+      "image": "https://www.lanacion.com.ar/resizer/v2/la-inflacion-desacelero-en-EKAKIQUMH5HGXB5MV3FAH5M2CE.jpg?auth=15aef8db11591bd54481e967fb6deba86f4b709c21ad79b72bc5af98de5860d7&width=1200&height=800&quality=70&smart=true",
+      "context": "* El INDEC informó que la inflación de septiembre fue del 1,9%, por encima del 1,7% registrado en agosto.\n* Los precios acumulan una suba del 23,6% en lo que va del año y del 33,4% en doce meses.\n* Las tarifas de servicios públicos y la educación fueron los rubros que más subieron, con aumentos de alrededor del 3%.",
+      "extended_context": "El Instituto Nacional de Estadística y Censos (INDEC) informó el 13 de octubre de 2026 que la inflación de septiembre fue del 1,9%, por encima del 1,7% de agosto, que había sido el registro más bajo en más de un año. La inflación núcleo, que deja afuera los precios estacionales y regulados, fue del 1,7%. Con este dato, los precios acumulan una suba del 23,6% en lo que va de 2026 y del 33,4% en los últimos doce meses.\n\nEl principal impulso vino de los precios regulados (2,3%) y de los estacionales (2,9%). Entre los rubros, los que más subieron fueron las tarifas de servicios públicos (3,1%), la educación, incluidas las cuotas de colegios privados (3%), las telecomunicaciones (2,5%) y la salud (2,4%). Alimentos y bebidas, el rubro con más peso en el índice, aumentó un 2%. Los que menos subieron fueron restaurantes y hoteles (1,1%) y ropa y calzado (1,4%).\n\nEl resultado estuvo en línea con lo que anticipaban las consultoras privadas, que esperaban un dato de entre 1,8% y 2,1% por la presión de los alimentos, en especial verduras y carnes. Si se confirma la tendencia, septiembre marca un freno a la desaceleración que la inflación mensual venía mostrando desde abril, con la única interrupción de julio (2,1%).",
+      "links": [
+        { "name": "INDEC", "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_10_268C45A9444C.pdf" },
+        { "name": "Chequeado", "url": "https://chequeado.com/el-explicador/la-inflacion-de-septiembre-fue-del-19-y-acumula-236-en-lo-que-va-del-ano/" },
+        { "name": "Ámbito", "url": "https://www.ambito.com/finanzas/inflacion-septiembre-2026-las-consultoras-anticipan-una-nueva-aceleracion-y-alimentos-vuelve-presionar-n6330586" }
+      ]
+    },
+    {
+      "id": "argentina-al-borde-de-recesion-tecnica",
+      "category": "nacional",
+      "title": "¿Argentina en recesión? Todavía no, pero está cerca",
+      "short_summary": "La actividad apenas creció 0,1% en agosto tras caer 2,8% en julio.",
+      "image": "https://www.lanacion.com.ar/resizer/v2/los-creditos-hipotecarios-reactivaron-la-44YZCVNCUZC5DOIVNTBWMFGICI.jpg?auth=343a6699c677908b7cfc1cc391f087ac0ab6d84c136a75346c80258a2b5c7fab&width=1200&height=800&quality=70&smart=true",
+      "context": "* Una recesión técnica son dos trimestres seguidos de caída del PBI; Argentina ya tuvo uno, el segundo trimestre de 2026.\n* Según el INDEC, la actividad cayó 2,8% en julio y apenas creció 0,1% en agosto, sin recuperar lo perdido.\n* Las consultoras calculan que evitar la recesión requiere que septiembre crezca 8,5%, algo que consideran prácticamente imposible.",
+      "extended_context": "Según el Estimador Mensual de Actividad Económica (EMAE) que publicó el INDEC el 21 de octubre de 2026, la actividad económica creció apenas 0,1% en agosto respecto de julio, después de haber caído 2,8% ese mes. En la comparación con agosto de 2025, la caída fue del 1,7%, con bajas en la industria (3,2%), el comercio (3,5%) y la construcción (2,5%), mientras que solo la minería y la energía crecieron.\n\nEn economía, se habla de recesión técnica cuando el producto bruto interno (PBI) cae durante dos trimestres consecutivos. El PBI ya bajó 0,6% en el segundo trimestre de 2026, cortando una racha de siete trimestres de crecimiento, así que una nueva caída en el tercer trimestre (julio a septiembre) cumpliría esa definición. Las consultoras PPI y LCG calculan que, para evitarlo, la actividad debería crecer 8,5% en septiembre, un salto que LCG calificó de \"directamente imposible\". El índice líder de la Universidad Torcuato Di Tella le asigna un 82% de probabilidad a la recesión.\n\nEl presidente Javier Milei afirmó en una entrevista que \"no hay recesión\" y sostuvo que las series desestacionalizadas \"miden mal\". Chequeado señaló que, en rigor, Argentina todavía no está en recesión técnica porque solo hubo un trimestre de caída, pero que los datos de julio y agosto anticipan que el tercer trimestre también cerraría en baja. Las expectativas de crecimiento para 2026 del relevamiento del Banco Central bajaron de 3,5% en diciembre de 2025 a 1,5% en septiembre.",
+      "links": [
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/economia/economia-argentina-cuanto-deberia-crecer-la-actividad-para-no-caer-en-recesion-nid22102026/" },
+        { "name": "Chequeado", "url": "https://chequeado.com/ultimas-noticias/milei-dijo-que-argentina-no-esta-en-recesion-que-dicen-y-que-no-dicen-los-indicadores/" },
+        { "name": "Infobae", "url": "https://www.infobae.com/economia/2026/10/22/cuanto-deberia-crecer-la-economia-argentina-en-septiembre-para-no-caer-en-recesion-tecnica/" },
+        { "name": "El Destape", "url": "https://www.eldestapeweb.com/economia/actividad-economica-volvio-caer-agosto-pais-acerca-recesion-formal-20261021201950" }
+      ]
+    },
+    {
+      "id": "francia-continuan-protestas-costo-de-vida",
+      "category": "geopolítica",
+      "title": "Continúan las protestas masivas en Francia",
+      "short_summary": "Empezaron con reclamos estudiantiles y se convirtieron en una crisis por el costo de vida.",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/d603/live/9c9fdf10-ce4e-11f1-8507-d7f0bcb84e7e.jpg",
+      "context": "* Las protestas comenzaron en septiembre con estudiantes secundarios que reclamaban por escuelas en mal estado y falta de docentes.\n* El 17 de octubre marcharon unas 550.000 personas contra el costo de vida, con saqueos e incendios en varias ciudades.\n* El Gobierno impuso toques de queda, prohibió marchas no sindicales y desplegó militares para custodiar edificios clave.",
+      "extended_context": "Francia atraviesa una de sus mayores olas de protestas de los últimos años. Todo empezó en septiembre de 2026, cuando estudiantes secundarios salieron a reclamar por el mal estado de los edificios escolares y la falta de docentes. Con las semanas, el reclamo se amplió al costo de vida y al deterioro de los servicios públicos, en un contexto de suba de los combustibles por las guerras en Irán y Ucrania, desempleo del 8,3% (21,6% entre los jóvenes) y un presupuesto de ajuste propuesto por el primer ministro Sébastien Lecornu.\n\nEl 17 de octubre, alrededor de 550.000 personas marcharon en todo el país, con apoyo de sindicatos, estudiantes y el movimiento de los \"chalecos amarillos\". La mayoría de las marchas fueron pacíficas, pero hubo saqueos, ataques a la policía e incendios, entre ellos el de la alcaldía de Limoges. En Marsella se dañaron más de 500 comercios. Según el ministro de Justicia, Gérald Darmanin, hubo 2.700 detenidos y 217 personas ya fueron encarceladas tras juicios rápidos.\n\nEl presidente Emmanuel Macron acusó a \"grupos organizados de ultraizquierda\" de querer \"derribar la república\". El Gobierno extendió toques de queda en París, Marsella, Lyon y otras ciudades, recomendó que no haya manifestaciones (solo se autorizan las sindicales) y desplegó militares de la operación antiterrorista Sentinelle para custodiar aeropuertos, estaciones y otros edificios. Hay nuevas marchas convocadas para el 24 y el 30 de octubre, y el sindicato CGT anunció una huelga general por tiempo indeterminado desde el 5 de noviembre. Protestas parecidas, aunque más chicas, se dieron en Italia, España, Portugal y Albania.",
+      "links": [
+        { "name": "BBC News", "url": "https://www.bbc.com/news/articles/cvde8g40xx42o" },
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html" },
+        { "name": "Clarín", "url": "https://www.clarin.com/mundo/francia-blinda-anuncio-nuevas-marchas-emmanuel-macron-moviliza-ejercito_0_dVCwYirQ66.html" },
+        { "name": "NBC News", "url": "https://www.nbcnews.com/world/europe/europes-protests-are-schools-are-generational-roar-rcna604731" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/europe/frances-macron-tightens-curbs-protests-blaming-hard-left-unrest-2026-10-22/" },
+        { "name": "AP News", "url": "https://apnews.com/article/france-protests-riots-looting-ca52b503a4ac8b2a489109f7de852847" }
+      ]
+    },
+    {
+      "id": "diputados-aprueba-nueva-ley-de-discapacidad",
+      "category": "nacional",
+      "title": "Diputados aprueba una nueva ley de discapacidad",
+      "short_summary": "Hubo un acuerdo amplio entre oficialismo y oposición: ahora la debate el Senado.",
+      "image": "https://fotos.perfil.com/2026/10/21/trim/987/555/diputados-21102026-2353724.jpg",
+      "context": "* Diputados aprobó con 237 votos a favor una nueva ley de discapacidad, que ahora debe tratar el Senado.\n* Reemplaza a la ley de emergencia en discapacidad, que vence a fin de año, y hace permanentes sus beneficios.\n* Mantiene la pensión en el 70% del haber mínimo y permite cobrarla teniendo un trabajo formal.",
+      "extended_context": "La Cámara de Diputados aprobó en la madrugada del 22 de octubre de 2026, con 237 votos a favor, 9 en contra y 4 abstenciones, un nuevo régimen de discapacidad que ahora debe tratar el Senado. El proyecto surgió de un acuerdo entre La Libertad Avanza y la oposición: los opositores aceptaron no prorrogar la Ley 27.793 de Emergencia en Discapacidad (sancionada en 2025 a pesar del veto del presidente Javier Milei, y que vence a fin de año), y a cambio el oficialismo aceptó volver permanentes buena parte de sus beneficios.\n\nEl texto mantiene la pensión no contributiva en el 70% del haber jubilatorio mínimo, actualizada por inflación, y ratifica el Certificado Único de Discapacidad (CUD) como vía de acceso. Además, permite cobrar la pensión y tener un empleo formal con ingresos de hasta dos salarios mínimos, fija por ley los requisitos para acceder a la pensión, establece un nomenclador único con aranceles que se actualizan automáticamente y obliga a pagar en 90 días las deudas con los prestadores. A cambio, el oficialismo consiguió auditorías periódicas que cruzarán datos con ANSES, ARCA, RENAPER y SINTyS.\n\nPara lograr el acuerdo, el Gobierno tuvo que retroceder con el capítulo de discapacidad que había incluido en el Presupuesto 2027, que endurecía el acceso a la pensión y la hacía incompatible con el empleo formal. Como la ley se aprobó con más de dos tercios de los votos, los analistas consideran que el margen del Senado para cambiarla y del Presidente para vetarla es mucho menor que en 2025. En la misma sesión, Diputados aprobó la ley de Propiedad Privada y devolvió a comisión el proyecto sobre el endeudamiento de las familias.",
+      "links": [
+        { "name": "Perfil", "url": "https://www.perfil.com/noticias/politica/lo-que-dejo-la-sesion-en-diputados-acuerdo-general-por-discapacidad-por-que-se-postergo-morosidad-y-la-ayuda-a-milei-en-propiedad-privada.phtml" },
+        { "name": "El Destape", "url": "https://www.eldestapeweb.com/politica/ley-discapacidad-uno-uno-cuales-cambios-introdujo-congreso-2026102214390" },
+        { "name": "Clarín", "url": "https://www.clarin.com/politica/diputados-hoy-vivo-debaten-discapacidad-endeudamiento-familiar-inviolabilidad-propiedad-privada_0_Yf27T2arHZ.html" }
+      ]
+    },
+    {
+      "id": "gobierno-adjudica-venta-aysa",
+      "category": "nacional",
+      "title": "Avanza la privatización de AySA",
+      "short_summary": "El Gobierno vendió el 90% de la empresa de agua por 340 millones de dólares.",
+      "image": "https://www.lanacion.com.ar/resizer/v2/la-sede-de-U5NXWQWNZFFJFA5U6MO3W3PAWA.jpg?auth=c36629a0ffa4f58f0c9ad984537e408a5dc0d6cf98ac5fc2f04db912ac309994&width=1200&height=800&quality=70&smart=true",
+      "context": "* El Gobierno adjudicó el 90% de AySA, la empresa de agua y cloacas del AMBA, a un consorcio privado.\n* El grupo ganador ofreció 340,2 millones de dólares, por debajo de los 500 millones que esperaba el Gobierno.\n* El contrato se firmará el 13 de noviembre, mientras legisladores opositores piden a la Justicia frenar la venta.",
+      "extended_context": "El Ministerio de Economía adjudicó el 22 de octubre de 2026 la venta del 90% de las acciones de Agua y Saneamientos Argentinos (AySA), la empresa que presta el servicio de agua potable y cloacas en la Ciudad de Buenos Aires y 26 municipios del conurbano, y fijó el 13 de noviembre como fecha para firmar el contrato. El 10% restante sigue en manos de los trabajadores. La privatización había sido habilitada por la Ley Bases de 2024.\n\nEl consorcio ganador, integrado por las empresas Rowing, Transclor, la brasileña Arcos Saneamento (operadora del agua de Río de Janeiro) y el fondo neerlandés PHX, ofreció 340,2 millones de dólares. El otro oferente, liderado por el grupo Roggio, ofreció 285 millones. La licitación no tenía precio base, aunque el Gobierno esperaba recaudar unos 500 millones. El comprador obtendrá una concesión por 30 años y deberá invertir para llevar la cobertura al 75,3% en agua y al 63,9% en cloacas para 2031.\n\nLa venta generó polémica. Algunos medios cuestionaron que solo se presentaran dos consorcios y señalaron que Transclor, de Mauricio Filiberti, es el principal proveedor de químicos para potabilizar el agua de AySA. Legisladores peronistas pidieron una medida cautelar para suspender la venta, al argumentar que no hubo una tasación oficial de la empresa. Además, el 26 de octubre se hará una audiencia pública para discutir cambios en las tarifas que implicarían aumentos para más de la mitad de los usuarios.",
+      "links": [
+        { "name": "Infobae", "url": "https://www.infobae.com/economia/2026/10/22/privatizacion-de-aysa-el-gobierno-fijo-para-el-13-de-noviembre-la-firma-del-contrato-de-venta/" },
+        { "name": "TN", "url": "https://tn.com.ar/economia/2026/10/22/el-gobierno-adjudico-el-90-de-las-acciones-de-aysa-al-grupo-que-oferto-us340-millones-y-fijo-cuando-se-firmara-el-contrato/" },
+        { "name": "La Nación", "url": "https://www.lanacion.com.ar/editoriales/amenazas-a-la-privatizacion-de-aysa-nid21102026/" },
+        { "name": "Página 12", "url": "https://www.pagina12.com.ar/2026/10/22/precio-rebajado-promesa-de-aumento-de-tarifa-y-un-comprador-fantasma-la-polemica-privatizacion-de-aysa/" }
+      ]
+    },
+    {
+      "id": "balotaje-brasil-lula-flavio-bolsonaro",
+      "category": "geopolítica",
+      "title": "Brasil define su presidente en un balotaje muy parejo",
+      "short_summary": "Lula y Flávio Bolsonaro llegan prácticamente empatados a la segunda vuelta del domingo 25.",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9299/live/dd5a6440-ce20-11f1-906e-e3128518d85d.jpg",
+      "context": "* El domingo 25 de octubre, Brasil elige presidente en segunda vuelta entre Lula da Silva y Flávio Bolsonaro.\n* Flávio, hijo del expresidente Jair Bolsonaro y aliado de Trump, ganó por poco la primera vuelta del 4 de octubre.\n* Las últimas encuestas muestran a Bolsonaro apenas adelante, dentro del margen de error, y la elección sigue abierta.",
+      "extended_context": "Brasil vota este domingo 25 de octubre de 2026 en la segunda vuelta de su elección presidencial, entre el actual presidente, Luiz Inácio Lula da Silva, de izquierda, y el senador Flávio Bolsonaro, de extrema derecha. Flávio es hijo del expresidente Jair Bolsonaro, que cumple una condena de 27 años de prisión por intentar un golpe de Estado tras perder la elección de 2022, y es aliado del presidente estadounidense Donald Trump. Lula, de 80 años, busca su cuarto mandato.\n\nEn la primera vuelta, el 4 de octubre, Bolsonaro superó a Lula por menos de dos puntos, contra lo que anticipaban la mayoría de las encuestas, aunque ninguno alcanzó el 50% necesario para ganar directamente. Los sondeos posteriores lo muestran levemente adelante: Quaest le dio 46% contra 44% de Lula y Datafolha, 47% contra 45%, ambos dentro del margen de error. Unos 159 millones de brasileños están habilitados para votar.\n\nLa campaña estuvo marcada por denuncias de interferencia. El Gobierno brasileño acusó a la administración Trump de intentar influir en la elección, después de que se conociera un plan para financiar una campaña contra el Supremo Tribunal Federal. En la última semana, la campaña de Lula pidió inhabilitar a Bolsonaro por un supuesto favoritismo de Meta (dueña de Instagram, Facebook y WhatsApp) en sus redes, algo que la empresa niega, y Bolsonaro respondió con un pedido similar contra Lula por el uso de datos oficiales para enviar mensajes masivos.",
+      "links": [
+        { "name": "PBS NewsHour", "url": "https://www.pbs.org/newshour/world/brazils-presidential-vote-pits-trump-ally-against-incumbent-lula" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/americas/bolsonaros-lead-over-lula-narrows-ahead-brazil-runoff-quaest-poll-shows-2026-10-21/" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans" },
+        { "name": "BBC News", "url": "https://www.bbc.com/news/articles/c6pwgve2lk5go" }
+      ]
+    },
+    {
+      "id": "elecciones-israel-netanyahu-eisenkot",
+      "category": "geopolítica",
+      "title": "Israel vota con Netanyahu y Eisenkot cabeza a cabeza",
+      "short_summary": "Las encuestas anticipan un empate: ningún bloque alcanzaría la mayoría de 61 bancas.",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/76d4/live/4dd4b040-ccb4-11f1-9a39-31b474234113.png",
+      "context": "* Israel celebra elecciones legislativas el martes 27 de octubre para renovar las 120 bancas de su Parlamento, la Knéset.\n* El primer ministro Benjamín Netanyahu enfrenta a un bloque opositor liderado por el exjefe militar Gadi Eisenkot.\n* Las últimas encuestas muestran un empate, y ninguno de los dos bloques llegaría a las 61 bancas necesarias.",
+      "extended_context": "Israel celebra elecciones legislativas el martes 27 de octubre de 2026. Los israelíes votan por partidos para ocupar las 120 bancas de la Knéset (el Parlamento), y para formar gobierno un bloque necesita reunir al menos 61. La pelea principal es entre el bloque del actual primer ministro, Benjamín Netanyahu, del partido Likud, y el bloque opositor encabezado por Gadi Eisenkot, exjefe del Estado Mayor del Ejército y líder del partido centrista Yashar.\n\nSegún las últimas encuestas publicadas (la ley israelí prohíbe difundir nuevos sondeos desde el viernes previo a la elección), el resultado más probable es un empate. El promedio de los medios principales muestra al partido de Eisenkot como el más votado y a su bloque levemente adelante, pero sin llegar a la mayoría. Las encuestas de medios cercanos a la derecha, en cambio, le dan a Netanyahu los 61 escaños. Los partidos árabes rondan las 14 bancas, pero ambos bloques prometieron no incluirlos en una coalición, lo que complica aún más las cuentas.\n\nTambién pueden ser decisivos los partidos chicos que están cerca del umbral mínimo del 3,25% de los votos para entrar a la Knéset. Si ningún bloque logra formar gobierno, Israel podría ir a una nueva elección, o a alternativas como un gobierno de unidad con rotación del cargo de primer ministro. La elección es seguida de cerca en el exterior porque podría cambiar la política israelí hacia los palestinos y hacia la guerra con Irán.",
+      "links": [
+        { "name": "Jewish Insider", "url": "https://jewishinsider.com/2026/10/final-israeli-polls-stalemate-tuesdays-election/" },
+        { "name": "The Jerusalem Post", "url": "https://www.jpost.com/israel-election-2026/article-912371" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/middle-east/how-would-netanyahu-election-loss-change-israels-policies-toward-palestinians-2026-10-22/" }
+      ]
+    },
+    {
+      "id": "openai-financiamiento-anthropic-ipo",
+      "category": "negocios-tecnologia",
+      "title": "OpenAI busca fondos mientras Anthropic prepara su salida a bolsa",
+      "short_summary": "Las dos empresas de IA buscan valuaciones superiores al billón de dólares.",
+      "image": "https://images.ft.com/v3/image/raw/ftcms%3A8bbf7787-7e05-4e92-b9ba-ba7c03f2bbe0?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1",
+      "context": "* OpenAI está cerca de cerrar una ronda de hasta 30.000 millones de dólares, liderada por inversores de Emiratos Árabes Unidos.\n* La ronda valuaría a la creadora de ChatGPT en 1,25 billones de dólares, antes de una posible salida a bolsa.\n* Su rival Anthropic prepara una salida a bolsa que, según la prensa, buscaría una valuación de hasta 2 billones.",
+      "extended_context": "OpenAI, la empresa creadora de ChatGPT, está cerca de cerrar una ronda de financiamiento de hasta 30.000 millones de dólares que la valuaría en 1,25 billones de dólares (es decir, 1,25 millones de millones), según personas al tanto de la negociación citadas por CNBC. La ronda está liderada por inversores de Emiratos Árabes Unidos junto con el fondo Coatue, y en paralelo OpenAI negocia un acuerdo para conseguir más capacidad de cómputo en ese país. La empresa estima gastar unos 600.000 millones de dólares en cómputo hasta 2030.\n\nLa ronda funciona como un \"puente\" antes de una posible salida a bolsa (IPO). OpenAI presentó en forma confidencial su prospecto ante la Comisión de Bolsa y Valores de Estados Unidos en junio, y su directora financiera dijo que la empresa \"será pública en 2027\", aunque su CEO, Sam Altman, opinó después que este no es un buen momento para hacerlo. Según Reuters, OpenAI busca acelerar el financiamiento antes de que su principal competidor salga a cotizar.\n\nEse competidor es Anthropic, que también presentó su prospecto en junio y ya se reúne con potenciales inversores para lo que se espera que sea una de las salidas a bolsa más grandes de la historia. Según la prensa, buscaría una valuación de entre 1,5 y 2 billones de dólares; en mayo había cerrado una ronda de 65.000 millones con una valuación de 965.000 millones. Estas cifras reavivan el debate sobre si las valuaciones de las empresas de inteligencia artificial reflejan su valor real o si se está formando una burbuja.",
+      "links": [
+        { "name": "CNBC", "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/" },
+        { "name": "Financial Times", "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1" }
+      ],
+      "related_terms": ["anthropic", "ipo", "burbuja-ia"]
+    },
+    {
+      "id": "super-nino-intensidad-sin-precedentes",
+      "category": "ciencia-ambiente",
+      "title": "El Niño podría alcanzar una intensidad sin precedentes",
+      "short_summary": "Ya provoca inundaciones en el noreste argentino, Chile y el sur de Brasil.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5mU4jM4WWhAEIKIV07drvmlP5LAMbNFYdNQNAJ-z-6klfvxLnkIyGKNC&s=10",
+      "context": "* La Organización Meteorológica Mundial advirtió que este El Niño podría ser el más intenso de las últimas cuatro décadas.\n* El calentamiento del Pacífico tropical alcanzaría su pico entre noviembre y enero, con hasta 3,8°C sobre el promedio.\n* En Argentina se esperan más lluvias y crecidas del Paraná y del Uruguay, sobre todo en el noreste del país.",
+      "extended_context": "La Organización Meteorológica Mundial (OMM) advirtió el 21 de octubre de 2026 que el fenómeno de El Niño en curso podría alcanzar una intensidad sin precedentes, \"literalmente fuera de las escalas de monitoreo\" usadas en las últimas cuatro décadas. Según su pronóstico estacional, la temperatura del mar en el Pacífico tropical podría superar en 3,8°C el promedio entre noviembre de 2026 y enero de 2027. El pico se daría hacia fin de año, pero sus efectos se sentirían durante muchos meses más.\n\nEl Niño altera las lluvias y temperaturas en buena parte del mundo: trae sequías a algunas regiones e inundaciones a otras. En América Latina sus efectos ya se notan: inundaciones severas en Chile, sequías en Centroamérica y la Amazonía, una temporada de huracanes muy activa en el Pacífico mexicano y lluvias intensas en Paraguay, Uruguay, el sur de Brasil y el norte de Argentina. La OMM, junto con la oficina humanitaria de la ONU, pidió a los gobiernos prepararse para proteger a las poblaciones más vulnerables.\n\nEn Argentina, con alertas por tormentas en 14 provincias, el meteorólogo Marcelo Madelón explicó que el foco de las lluvias está en el noreste del país y en el sur de Brasil, donde nacen los ríos Paraná y Uruguay, que ya provocaron desbordes y evacuaciones. Según Madelón, el pico de lluvias se daría entre diciembre y enero, con un verano más nublado, húmedo y tormentoso de lo habitual, y el fenómeno podría extenderse hasta el otoño de 2027.",
+      "links": [
+        { "name": "Organización Meteorológica Mundial", "url": "https://wmo.int/secretariat/celeste-saulo/el-nino-and-humanitarian-action" },
+        { "name": "The Hill", "url": "http://thehill.com/policy/energy-environment/6165658-behemoth-el-nino-could-be-off-the-charts-forecasters-warn/" },
+        { "name": "BBC Mundo", "url": "https://www.bbc.com/mundo/articles/cj5ynq730px4o" },
+        { "name": "Infobae", "url": "https://www.infobae.com/america/medio-ambiente/2026/10/22/el-nino-reforzado-impactara-en-argentina-cuando-sera-el-pico-de-lluvias-y-que-zonas-estan-en-riesgo/" }
+      ],
+      "related_terms": ["el-nino"]
+    },
+    {
+      "id": "ia-detecta-fallas-criticas-php",
+      "category": "negocios-tecnologia",
+      "title": "La IA detecta fallas graves en PHP",
+      "short_summary": "Gobiernos de todo el mundo recomendaron desconectar sitios hasta instalar los parches de PHP.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_avif,q_auto:best/rockcms/2024-02/240220-russian-ransomware-stock-aa-831a-6fee4b.jpg",
+      "context": "* Investigadores con ayuda de inteligencia artificial encontraron dos fallas críticas en PHP, usado en cerca del 70% de los sitios.\n* El FBI y agencias europeas recomendaron desconectar los sitios que no pudieran instalar los parches de inmediato.\n* Por ahora, las empresas de ciberseguridad no detectaron ataques exitosos, aunque advierten que el riesgo seguirá varias semanas.",
+      "extended_context": "El 21 de octubre de 2026 se hicieron públicas dos vulnerabilidades críticas en PHP, un lenguaje de programación que se usa en cerca del 70% de los sitios web del mundo. Las fallas fueron descubiertas en agosto por investigadores que trabajaron con modelos de inteligencia artificial, en un esfuerzo coordinado por OpenAI junto a empresas de seguridad, que durante dos meses prepararon en secreto los parches antes de anunciar el problema. OpenAI lo describió como \"uno de los problemas de seguridad más graves de los últimos tiempos\".\n\nLas fallas permitían a un atacante ejecutar su propio código en un servidor o acceder a datos de los usuarios sin necesidad de contraseña. Por eso, el FBI, la agencia de ciberseguridad de la Unión Europea (ENISA) y organismos de Japón y Australia, entre otros, recomendaron algo inusual: desconectar los sitios que no pudieran actualizarse de inmediato. Varios sitios de gobiernos, como los del Reino Unido, Finlandia y Japón, quedaron temporalmente fuera de línea. La PHP Foundation reconoció que una de las fallas se conocía desde al menos 2024 y calificó la demora como \"una falla estructural\".\n\nUn día después, nueve grandes empresas de ciberseguridad dijeron no haber detectado ataques exitosos, en parte porque las fallas resultaron más difíciles de explotar de lo esperado y porque los modelos de IA a los que acceden los atacantes son menos potentes que los usados por los investigadores. Aun así, los expertos advierten que reparar todos los sistemas puede llevar semanas o meses, y que el caso muestra cómo la IA está cambiando la ciberseguridad: puede encontrar fallas más rápido que nunca, tanto para defender como para atacar.",
+      "links": [
+        { "name": "NBC News", "url": "https://www.nbcnews.com/tech/security/hackers-php-flaws-cybersecurity-crisis-rcna605112" },
+        { "name": "AP News", "url": "https://apnews.com/article/php-vulnerabilities-security-threat-38d37c4c18bf8355b02d85b5a73ed642" },
+        { "name": "The Wall Street Journal", "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea" },
+        { "name": "The Atlantic", "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/" }
+      ]
+    },
+    {
+      "id": "iran-dice-haber-alcanzado-siete-buques-ormuz",
+      "category": "geopolítica",
+      "title": "Irán dice haber alcanzado siete buques en Ormuz",
+      "short_summary": "Estados Unidos lo niega y acusa a Teherán de querer subir el precio del petróleo.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a6e03d2c6-1785594834.jpg?resize=770%2C513&quality=80",
+      "context": "* La Guardia Revolucionaria de Irán afirmó que siete petroleros fueron alcanzados por ataques y minas en el estrecho de Ormuz.\n* Sería la mayor cantidad de barcos atacados en un día desde que empezó la guerra con Estados Unidos e Israel.\n* Estados Unidos negó las minas, y Trump acusó a Irán de inventar ataques para subir el precio del petróleo.",
+      "extended_context": "La Guardia Revolucionaria de Irán afirmó el 22 de octubre de 2026 que siete petroleros fueron alcanzados en el estrecho de Ormuz: cuatro fueron atacados mientras transferían petróleo y se incendiaron, y otros tres quedaron inutilizados al chocar con minas. De confirmarse, sería la mayor cantidad de barcos atacados en un solo día desde que Estados Unidos e Israel iniciaron la guerra contra Irán el 28 de febrero. Las afirmaciones no pudieron ser verificadas de forma independiente.\n\nIrán reclama el control del estrecho, por donde antes de la guerra pasaba una quinta parte del petróleo mundial, y ataca a los barcos que intentan cruzarlo sin su autorización. Estados Unidos, por su parte, escolta cada vez más buques por la zona. La Guardia Revolucionaria advirtió que, si esto continúa, \"el conflicto se extenderá a sus bases en la región\".\n\nEl Comando Central de Estados Unidos negó que hubiera minas, aseguró que el estrecho sigue abierto y que el 95% de los barcos logra pasar. El presidente Donald Trump acusó a Irán de inventar \"ataques falsos\" para hacer subir el precio del petróleo antes de las elecciones legislativas estadounidenses de noviembre.",
+      "links": [
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response" },
+        { "name": "AP News", "url": "https://apnews.com/article/iran-united-states-war-hormuz-trump-israel-2abebce2fca2c085e0e0ee717e42cf28" },
+        { "name": "Reuters", "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-seven-vessels-hit-warns-us-wider-response-2026-10-22/" }
+      ],
+      "related_terms": ["estrecho-de-ormuz"]
+    }
+  ]
+}
