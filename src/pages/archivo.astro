@@ -8,7 +8,7 @@ allEditions.sort((a, b) => b.id.localeCompare(a.id));
 ---
 
 <Layout title="THE LOOP | Archivo de Ediciones">
-    <header style="text-align: center; margin-bottom: 4rem; padding-top: 2rem;">
+    <header class="archive-header">
         <h1 style="font-size: 3.5rem; margin-bottom: 1rem; font-weight: 900;">Archivo</h1>
         <p style="color: #94a3b8; font-size: 1.2rem;">Revive todas las ediciones pasadas de The Loop.</p>
     </header>
@@ -16,7 +16,7 @@ allEditions.sort((a, b) => b.id.localeCompare(a.id));
     <div style="display: flex; flex-direction: column; gap: 1.5rem; max-width: 800px; margin: 0 auto;">
         {allEditions.map(edition => (
             <a href={`/archivo/${edition.id}`} style="text-decoration: none;">
-                <div style="background: #1e293b; padding: 1.5rem 2.5rem; border-radius: 1rem; border: 1px solid #334155; transition: all 0.2s; display: flex; justify-content: space-between; align-items: center;" 
+                <div class="edition-card" 
                      onmouseover="this.style.transform='translateX(10px)'; this.style.borderColor='#3b82f6'"
                      onmouseout="this.style.transform='translateX(0)'; this.style.borderColor='#334155'">
                     <div style="text-align: left;">
@@ -30,9 +30,46 @@ allEditions.sort((a, b) => b.id.localeCompare(a.id));
                         </h2>
                         <p style="color: #94a3b8; margin: 0.2rem 0 0 0; font-size: 1rem;">{edition.data.date}</p>
                     </div>
-                    <div style="color: #3b82f6; font-weight: bold; font-size: 1.2rem;">Explorar &rarr;</div>
+                    <div class="edition-cta">Explorar &rarr;</div>
                 </div>
             </a>
         ))}
     </div>
 </Layout>
+
+<style>
+    .archive-header {
+        text-align: center;
+        margin-bottom: 4rem;
+        padding-top: 2rem;
+    }
+    .edition-card {
+        background: #1e293b;
+        padding: 1.5rem 2.5rem;
+        border-radius: 1rem;
+        border: 1px solid #334155;
+        transition: all 0.2s;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+    }
+    .edition-cta {
+        color: #3b82f6;
+        font-weight: bold;
+        font-size: 1.2rem;
+        white-space: nowrap;
+    }
+    @media (max-width: 600px) {
+        .archive-header {
+            margin-bottom: 2rem;
+            padding-top: 0.5rem;
+        }
+        .edition-card {
+            padding: 1.1rem 1.25rem;
+        }
+        .edition-cta {
+            font-size: 1rem;
+        }
+    }
+</style>

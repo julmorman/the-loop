@@ -91,9 +91,10 @@ import Layout from '../layouts/Layout.astro';
 
     .cyber-title {
         font-family: var(--font-title);
-        font-size: 6rem;
+        font-size: clamp(3rem, 14vw, 6rem);
         font-weight: 700;
         margin: 0;
+        white-space: nowrap;
         letter-spacing: -2px;
         color: #fff;
         text-shadow: 
@@ -113,6 +114,7 @@ import Layout from '../layouts/Layout.astro';
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
         gap: 1.5rem;
+        width: 100%;
         max-width: 1000px;
         margin: 0 auto;
     }
@@ -171,5 +173,28 @@ import Layout from '../layouts/Layout.astro';
         font-size: 0.9rem;
         color: var(--text-muted);
         margin: 0;
+    }
+
+    @media (max-width: 600px) {
+        .cyber-container {
+            padding: 0;
+            min-height: auto;
+        }
+        .cyber-main {
+            padding: 1rem 0;
+        }
+        .cyber-subtitle {
+            font-size: 1rem;
+            margin-bottom: 2rem;
+        }
+        .cyber-grid {
+            gap: 1rem;
+        }
+        .cyber-card {
+            min-height: auto;
+        }
+        .cyber-card:hover {
+            transform: none;
+        }
     }
 </style>
