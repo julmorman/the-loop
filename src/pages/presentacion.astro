@@ -399,6 +399,8 @@ for (let i = 0; i < maxItems; i++) {
             label.textContent = `${i + 1} / ${slides.length}`;
             thumb.appendChild(label);
             thumb.onclick = (e) => {
+                // Fuera de la grilla el click sigue de largo (pantalla completa)
+                if (!gridMode) return;
                 e.stopPropagation();
                 showSlide(i);
                 toggleGrid();
