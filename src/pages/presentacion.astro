@@ -236,7 +236,7 @@ for (let i = 0; i < maxItems; i++) {
         body.phone .detail-bullets li { font-size: 1.9rem; line-height: 1.35; margin-bottom: 1rem; }
         body.phone .summary { font-size: 2.6rem; max-width: 85%; }
         body.phone .qr-code { height: 216px; }
-        body.phone #grid-btn, body.phone #fullscreen-btn { display: none; }
+        body.phone #fullscreen-btn, body.phone:not(.grid-mode) #grid-btn { display: none; }
         body.phone .progress-container { position: fixed; top: calc(50% + var(--frame-h) / 2); bottom: auto; }
         @media (orientation: portrait) {
             body.phone .rotate-hint {
@@ -247,6 +247,12 @@ for (let i = 0; i < maxItems; i++) {
                 font-size: 0.8rem;
                 letter-spacing: 1px;
                 color: var(--text-muted);
+            }
+            body.phone:not(.grid-mode) #grid-btn {
+                display: block;
+                top: calc(50% + var(--frame-h) / 2 + 64px);
+                left: 50%; right: auto;
+                transform: translateX(-50%);
             }
         }
 
@@ -289,6 +295,27 @@ for (let i = 0; i < maxItems; i++) {
             background: rgba(15, 23, 42, 0.85);
             padding: 2px 8px;
         }
+
+        /* Grilla en celular: una slide abajo de la otra, al ancho del teléfono */
+        body.phone.grid-mode #slides-container {
+            position: static;
+            width: auto; height: auto;
+            transform: none;
+            overflow: visible;
+            background: none;
+            grid-template-columns: 1fr;
+            gap: 12px;
+            padding: 64px 0 16px;
+        }
+        body.phone.grid-mode :global(.thumb) {
+            background-color: var(--bg-color);
+            background-image: linear-gradient(rgba(6, 182, 212, 0.05) 1px, transparent 1px),
+                              linear-gradient(90deg, rgba(6, 182, 212, 0.05) 1px, transparent 1px);
+            background-size: 12px 12px;
+        }
+        body.phone.grid-mode .slide { width: 1280px; height: 720px; }
+        body.phone.grid-mode #grid-btn { top: 12px; right: 12px; }
+        body.phone.grid-mode .rotate-hint { display: none; }
     </style>
 </head>
 <body>
@@ -442,10 +469,14 @@ for (let i = 0; i < maxItems; i++) {
         }
 
         function updateThumbScale() {
-            container.style.setProperty('--vw', window.innerWidth);
-            container.style.setProperty('--vh', window.innerHeight);
+            // En celular las slides miden 1280x720; en compu, lo que mide la ventana
+            const isPhone = document.body.classList.contains('phone');
+            const baseW = isPhone ? 1280 : window.innerWidth;
+            const baseH = isPhone ? 720 : window.innerHeight;
+            container.style.setProperty('--vw', baseW);
+            container.style.setProperty('--vh', baseH);
             if (gridMode && thumbs[0]) {
-                container.style.setProperty('--thumb-scale', thumbs[0].clientWidth / window.innerWidth);
+                container.style.setProperty('--thumb-scale', thumbs[0].clientWidth / baseW);
             }
         }
 
@@ -468,13 +499,15 @@ for (let i = 0; i < maxItems; i++) {
 
         function applyPhoneLayout() {
             const isPhone = phoneQuery.matches;
-            if (isPhone && gridMode) toggleGrid();
+            const wasPhone = document.body.classList.contains('phone');
+            if (isPhone !== wasPhone && gridMode) toggleGrid();
             document.body.classList.toggle('phone', isPhone);
             if (isPhone) {
                 const scale = Math.min(window.innerWidth / 1280, window.innerHeight / 720);
                 document.body.style.setProperty('--frame-scale', scale);
                 document.body.style.setProperty('--frame-h', `${720 * scale}px`);
             }
+            updateThumbScale();
         }
 
         applyPhoneLayout();
