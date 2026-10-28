@@ -178,7 +178,7 @@ import Layout from '../layouts/Layout.astro';
     @media (max-width: 600px) {
         .cyber-container {
             padding: 0;
-            min-height: auto;
+            min-height: calc(100svh - 52px - 2.5rem);
         }
         .cyber-main {
             padding: 1rem 0;
@@ -188,10 +188,27 @@ import Layout from '../layouts/Layout.astro';
             margin-bottom: 2rem;
         }
         .cyber-grid {
+            grid-template-columns: repeat(2, 1fr);
             gap: 1rem;
+            max-width: 360px;
         }
         .cyber-card {
             min-height: auto;
+            aspect-ratio: 1;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 1rem;
+        }
+        .card-tag {
+            margin-bottom: 0.5rem;
+        }
+        .card-content h3 {
+            font-size: 1.1rem;
+            margin: 0;
+        }
+        .card-content p {
+            display: none;
         }
         .cyber-card:hover {
             transform: none;

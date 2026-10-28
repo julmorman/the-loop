@@ -86,7 +86,7 @@ const getSourceName = (link: { name: string, url: string }) => {
         )}
 
         {noticia.extended_context && (
-            <div style="font-size: 1.25rem; line-height: 1.7; color: #f1f5f9; margin-bottom: 2rem;">
+            <div class="extended-context">
                 {noticia.extended_context.split('\n').map((paragraph: string) => {
                     const isBullet = /^\*\s/.test(paragraph.trim());
                     const cleanText = isBullet ? paragraph.trim().substring(1).trim() : paragraph.trim();
@@ -185,5 +185,19 @@ const getSourceName = (link: { name: string, url: string }) => {
         line-height: 1.6;
         margin: 0;
         font-size: 1rem;
+    }
+
+    .extended-context {
+        font-size: 1.25rem;
+        line-height: 1.7;
+        color: #f1f5f9;
+        margin-bottom: 2rem;
+    }
+
+    @media (max-width: 600px) {
+        .extended-context {
+            font-size: 0.95rem;
+            line-height: 1.65;
+        }
     }
 </style>

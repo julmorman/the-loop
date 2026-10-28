@@ -31,7 +31,7 @@ for (let i = 0; i < maxItems; i++) {
 <html lang="es">
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>THE LOOP | Modo Presentación</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&family=JetBrains+Mono:wght@400;700&display=swap');
@@ -212,6 +212,44 @@ for (let i = 0; i < maxItems; i++) {
         }
         .fullscreen-hidden #fullscreen-btn, .fullscreen-hidden #grid-btn { opacity: 0; }
 
+        .qr-code { height: 30vh; width: auto; margin-top: 3rem; border-radius: 8px; box-shadow: 0 0 30px var(--accent-glow); }
+        .rotate-hint { display: none; }
+
+        /* Celular: cada slide se dibuja como en una pantalla de 1280x720 y se
+           escala al ancho del teléfono, con franjas negras arriba y abajo */
+        body.phone { background: #000; }
+        body.phone #slides-container {
+            position: fixed; top: 50%; left: 50%;
+            width: 1280px; height: 720px;
+            transform: translate(-50%, -50%) scale(var(--frame-scale));
+            overflow: hidden;
+            background-color: var(--bg-color);
+            background-image: linear-gradient(rgba(6, 182, 212, 0.05) 1px, transparent 1px),
+                              linear-gradient(90deg, rgba(6, 182, 212, 0.05) 1px, transparent 1px);
+            background-size: 40px 40px;
+        }
+        body.phone .slide { width: 100%; height: 100%; }
+        body.phone .detail-container { gap: 3rem; }
+        body.phone .detail-image { flex: 0.75; height: 504px; }
+        body.phone .detail-text .category { font-size: 1.6rem; }
+        body.phone .detail-context { font-size: 1.9rem; line-height: 1.45; margin-bottom: 1.5rem; }
+        body.phone .detail-bullets li { font-size: 1.9rem; line-height: 1.35; margin-bottom: 1rem; }
+        body.phone .summary { font-size: 2.6rem; max-width: 85%; }
+        body.phone .qr-code { height: 216px; }
+        body.phone #grid-btn, body.phone #fullscreen-btn { display: none; }
+        body.phone .progress-container { position: fixed; top: calc(50% + var(--frame-h) / 2); bottom: auto; }
+        @media (orientation: portrait) {
+            body.phone .rotate-hint {
+                display: block;
+                position: fixed; left: 0; width: 100%;
+                top: calc(50% + var(--frame-h) / 2 + 24px);
+                text-align: center;
+                font-size: 0.8rem;
+                letter-spacing: 1px;
+                color: var(--text-muted);
+            }
+        }
+
         /* Vista de grilla: todas las slides juntas para revisar */
         :global(.thumb) { display: contents; }
         :global(.thumb-label) { display: none; }
@@ -330,9 +368,12 @@ for (let i = 0; i < maxItems; i++) {
         <div class="slide" data-duration="10000">
             <p style="font-size: 2.5rem; color: #94a3b8; margin-bottom: 1rem; font-weight: 700; text-align: center;">Conocé más en:</p>
             <p style="font-size: 5rem; color: white; font-weight: 900; letter-spacing: -2px; margin: 0; white-space: nowrap; text-align: center; width: 100%;">the-weekly-loop.vercel.app</p>
+            <img src="/qr-websitehome.jpeg" alt="QR a the-weekly-loop.vercel.app" class="qr-code" />
         </div>
     </div>
     
+    <div class="rotate-hint">Girá el celular para leer mejor ⟳</div>
+
     <div class="progress-container">
         <div class="progress-bar" id="progress"></div>
     </div>
@@ -421,6 +462,23 @@ for (let i = 0; i < maxItems; i++) {
 
         window.addEventListener('resize', updateThumbScale);
 
+        const phoneQuery = window.matchMedia('(max-width: 600px), (max-height: 500px) and (pointer: coarse)');
+
+        function applyPhoneLayout() {
+            const isPhone = phoneQuery.matches;
+            if (isPhone && gridMode) toggleGrid();
+            document.body.classList.toggle('phone', isPhone);
+            if (isPhone) {
+                const scale = Math.min(window.innerWidth / 1280, window.innerHeight / 720);
+                document.body.style.setProperty('--frame-scale', scale);
+                document.body.style.setProperty('--frame-h', `${720 * scale}px`);
+            }
+        }
+
+        applyPhoneLayout();
+        window.addEventListener('resize', applyPhoneLayout);
+        phoneQuery.addEventListener('change', applyPhoneLayout);
+
         document.addEventListener('keydown', (e) => {
             if (gridMode) {
                 if (e.key === 'Escape') toggleGrid();
@@ -437,6 +495,7 @@ for (let i = 0; i < maxItems; i++) {
         gridBtn.onclick = (e) => { e.stopPropagation(); toggleGrid(); };
 
         function toggleFullscreen() {
+            if (!document.documentElement.requestFullscreen) return; // iPhone no lo soporta
             if (!document.fullscreenElement) {
                 document.documentElement.requestFullscreen();
                 document.body.classList.add('fullscreen-hidden');
