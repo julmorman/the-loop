@@ -195,8 +195,8 @@ for (let i = 0; i < maxItems; i++) {
             border: 1px solid rgba(6, 182, 212, 0.3);
         }
         
-        #fullscreen-btn {
-            position: absolute; top: 20px; right: 20px;
+        #fullscreen-btn, #grid-btn {
+            position: fixed; top: 20px; right: 20px;
             background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3);
             color: var(--accent); padding: 8px 16px; border-radius: 4px;
             cursor: pointer; z-index: 1000; font-weight: bold; 
@@ -205,15 +205,57 @@ for (let i = 0; i < maxItems; i++) {
             letter-spacing: 1px;
             transition: all 0.3s;
         }
-        #fullscreen-btn:hover {
+        #grid-btn { top: 64px; }
+        #fullscreen-btn:hover, #grid-btn:hover {
             background: rgba(6, 182, 212, 0.2);
             box-shadow: 0 0 15px var(--accent-glow);
         }
-        .fullscreen-hidden #fullscreen-btn { opacity: 0; }
+        .fullscreen-hidden #fullscreen-btn, .fullscreen-hidden #grid-btn { opacity: 0; }
+
+        /* Vista de grilla: todas las slides juntas para revisar */
+        :global(.thumb) { display: contents; }
+        :global(.thumb-label) { display: none; }
+        body.grid-mode { overflow-y: auto; cursor: default; }
+        body.grid-mode #fullscreen-btn { display: none; }
+        body.grid-mode #grid-btn { top: 20px; }
+        body.grid-mode .progress-container { display: none; }
+        body.grid-mode #slides-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+            padding: 72px 24px 24px;
+        }
+        body.grid-mode :global(.thumb) {
+            display: block;
+            position: relative;
+            overflow: hidden;
+            aspect-ratio: var(--vw) / var(--vh);
+            border: 1px solid rgba(6, 182, 212, 0.3);
+            cursor: pointer;
+        }
+        body.grid-mode :global(.thumb.current) { border-color: var(--accent); box-shadow: 0 0 15px var(--accent-glow); }
+        body.grid-mode :global(.thumb:hover) { border-color: var(--accent); }
+        body.grid-mode .slide {
+            display: flex;
+            position: absolute; top: 0; left: 0;
+            transform: scale(var(--thumb-scale));
+            transform-origin: 0 0;
+            animation: none;
+            pointer-events: none;
+        }
+        body.grid-mode :global(.thumb-label) {
+            display: block;
+            position: absolute; top: 8px; left: 8px; z-index: 1;
+            font-size: 0.8rem; font-weight: bold;
+            color: var(--accent);
+            background: rgba(15, 23, 42, 0.85);
+            padding: 2px 8px;
+        }
     </style>
 </head>
 <body>
     <button id="fullscreen-btn">PANTALLA COMPLETA</button>
+    <button id="grid-btn">VER TODAS</button>
     
     <div id="slides-container">
         <!-- Portada Inicial -->
@@ -299,40 +341,100 @@ for (let i = 0; i < maxItems; i++) {
         const slides = document.querySelectorAll('.slide');
         const progressBar = document.getElementById('progress');
         const fullscreenBtn = document.getElementById('fullscreen-btn');
+        const gridBtn = document.getElementById('grid-btn');
+        const container = document.getElementById('slides-container');
         let currentSlide = 0;
         let start = Date.now();
+        let gridMode = false;
+
+        // Cada slide va dentro de un .thumb (display: contents fuera de la grilla)
+        const thumbs = Array.from(slides).map((slide, i) => {
+            const thumb = document.createElement('div');
+            thumb.className = 'thumb';
+            slide.before(thumb);
+            thumb.appendChild(slide);
+            const label = document.createElement('div');
+            label.className = 'thumb-label';
+            label.textContent = `${i + 1} / ${slides.length}`;
+            thumb.appendChild(label);
+            thumb.onclick = (e) => {
+                e.stopPropagation();
+                showSlide(i);
+                toggleGrid();
+            };
+            return thumb;
+        });
 
         function getDuration() {
             return parseInt(slides[currentSlide].getAttribute('data-duration') || "15000");
         }
 
         function update() {
-            const duration = getDuration();
-            const elapsed = Date.now() - start;
-            const progress = (elapsed / duration) * 100;
-            
-            if (progress >= 100) {
-                nextSlide();
-            } else {
-                progressBar.style.width = progress + '%';
-                requestAnimationFrame(update);
-            }
-        }
+            if (!gridMode) {
+                const duration = getDuration();
+                const elapsed = Date.now() - start;
+                const progress = (elapsed / duration) * 100;
 
-        function nextSlide() {
-            slides[currentSlide].classList.remove('active');
-            currentSlide = (currentSlide + 1) % slides.length;
-            slides[currentSlide].classList.add('active');
-            
-            const nextColor = slides[currentSlide].getAttribute('data-color') || "#3b82f6";
-            progressBar.style.backgroundColor = nextColor;
-            
-            start = Date.now();
+                if (progress >= 100) {
+                    showSlide(currentSlide + 1);
+                } else {
+                    progressBar.style.width = progress + '%';
+                }
+            }
             requestAnimationFrame(update);
         }
 
+        function showSlide(index) {
+            slides[currentSlide].classList.remove('active');
+            thumbs[currentSlide].classList.remove('current');
+            currentSlide = (index + slides.length) % slides.length;
+            slides[currentSlide].classList.add('active');
+            thumbs[currentSlide].classList.add('current');
+
+            const nextColor = slides[currentSlide].getAttribute('data-color') || "#3b82f6";
+            progressBar.style.backgroundColor = nextColor;
+            progressBar.style.width = '0%';
+
+            start = Date.now();
+        }
+
+        function updateThumbScale() {
+            container.style.setProperty('--vw', window.innerWidth);
+            container.style.setProperty('--vh', window.innerHeight);
+            if (gridMode && thumbs[0]) {
+                container.style.setProperty('--thumb-scale', thumbs[0].clientWidth / window.innerWidth);
+            }
+        }
+
+        function toggleGrid() {
+            gridMode = !gridMode;
+            document.body.classList.toggle('grid-mode', gridMode);
+            gridBtn.textContent = gridMode ? 'VOLVER AL LOOP' : 'VER TODAS';
+            if (gridMode) {
+                updateThumbScale();
+                thumbs[currentSlide].scrollIntoView({ block: 'center' });
+            } else {
+                document.body.scrollTop = 0;
+                start = Date.now();
+            }
+        }
+
+        window.addEventListener('resize', updateThumbScale);
+
+        document.addEventListener('keydown', (e) => {
+            if (gridMode) {
+                if (e.key === 'Escape') toggleGrid();
+                return;
+            }
+            if (e.key === 'ArrowRight') showSlide(currentSlide + 1);
+            else if (e.key === 'ArrowLeft') showSlide(currentSlide - 1);
+        });
+
+        thumbs[0].classList.add('current');
         progressBar.style.backgroundColor = slides[0].getAttribute('data-color') || "#3b82f6";
         requestAnimationFrame(update);
+
+        gridBtn.onclick = (e) => { e.stopPropagation(); toggleGrid(); };
 
         function toggleFullscreen() {
             if (!document.fullscreenElement) {
@@ -345,7 +447,7 @@ for (let i = 0; i < maxItems; i++) {
         }
 
         fullscreenBtn.onclick = (e) => { e.stopPropagation(); toggleFullscreen(); };
-        document.body.onclick = () => { if (!document.fullscreenElement) toggleFullscreen(); };
+        document.body.onclick = () => { if (!gridMode && !document.fullscreenElement) toggleFullscreen(); };
     </script>
 </body>
 </html>
