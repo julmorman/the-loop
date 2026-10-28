@@ -1,0 +1,377 @@
+{
+  "id": "week-17",
+  "date": "29 de Octubre",
+  "funny_title": "Semana 17",
+  "news": [
+    {
+      "id": "lula-gana-balotaje-brasil",
+      "category": "geopolítica",
+      "title": "Lula gana el balotaje y obtiene un cuarto mandato",
+      "short_summary": "Superó a Flávio Bolsonaro, que había ganado la primera vuelta y rechaza el resultado.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae0982b-1793103915.jpg?resize=1920%2C1440",
+      "context": "* Lula obtuvo el 51,79% de los votos válidos contra el 48,21% de Flávio Bolsonaro, según el tribunal electoral.\n* Es la primera vez desde 1989 que gana la presidencia un candidato que había salido segundo en primera vuelta.\n* Flávio Bolsonaro anunció que pedirá anular la elección por la extensión del horario de votación que autorizó la Corte Suprema.",
+      "extended_context": "Luiz Inácio Lula da Silva fue reelegido presidente de Brasil el domingo 25 de octubre y obtuvo un cuarto mandato, algo inédito en el país. Según el Tribunal Superior Electoral, Lula consiguió el 51,79% de los votos válidos (64,3 millones) frente al 48,21% (59,8 millones) del senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro. En la primera vuelta, Flávio había quedado primero con el 47,03% contra el 45,16% de Lula. Es la primera vez desde el regreso de las elecciones presidenciales directas, en 1989, que gana un candidato que había salido segundo en la primera vuelta.\n\nLa jornada fue tensa: la Corte Suprema extendió dos horas la votación a pedido de la campaña de Lula, que denunció problemas con el transporte hacia los centros de votación. La campaña de Bolsonaro también había pedido extensiones en algunas zonas por las lluvias. Flávio Bolsonaro dijo que es \"imposible reconocer el resultado\" y anunció que pedirá anular la elección. Un analista del Wilson Center consultado por CNN sostuvo que la extensión \"no fue una irregularidad\" y que las chances de lograr un recuento o una nueva elección son muy bajas.\n\nEl resultado también tiene impacto internacional. Según analistas citados por Al Jazeera, el triunfo de Lula asegura la continuidad de Brasil dentro de los BRICS, el bloque que integra junto con China, Rusia, India y Sudáfrica, entre otros países, y cuyo rol Flávio Bolsonaro, aliado de Donald Trump, había propuesto revisar. En la región, la victoria de Lula va a contramano de una tendencia reciente: desde 2025, varias elecciones presidenciales en América Latina fueron ganadas por candidatos de derecha o centroderecha.",
+      "links": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/brazil-election-lula-bolsonaro-trump-sheinbaum-minerals-03308034b03be5e3dd1ee65b9fc9e90d"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam"
+        }
+      ]
+    },
+    {
+      "id": "papa-leon-xiv-confirma-visita-argentina",
+      "category": "nacional",
+      "title": "El papa León XIV confirmó su visita a la Argentina",
+      "short_summary": "Estará del 8 al 11 de noviembre y el Gobierno decretó feriados por su llegada.",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/03/11/2026-03-11-udienza-generale-/1773228673460.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+      "context": "* El Papa confirmó el viaje tras una cirugía de pulmón y visitará Buenos Aires, Claypole, Córdoba y Luján.\n* El lunes 9 de noviembre será feriado nacional; el 10 y el 11 habrá feriados solo en algunas jurisdicciones.\n* Será la primera visita papal al país desde Juan Pablo II; Francisco, argentino, nunca llegó a visitarlo.",
+      "extended_context": "El papa León XIV confirmó que visitará la Argentina entre el 8 y el 11 de noviembre, como parte de una gira por Sudamérica que comenzará en Uruguay el 6 de noviembre y terminará en Perú el 17. \"Me llena de alegría regresar al continente en el que he vivido tantos momentos de mi vida\", escribió el Papa, que antes de ser elegido fue misionero y obispo en Perú. La confirmación llegó después de que fuera operado de un cáncer de pulmón detectado de forma temprana; según informó el Vaticano, el tumor estaba localizado y no requerirá tratamiento adicional.\n\nSerá la primera visita de un papa a la Argentina desde Juan Pablo II: Francisco, nacido en Buenos Aires, no llegó a visitar el país durante sus 12 años de pontificado. León XIV llegará el domingo 8, se reunirá con el presidente Javier Milei en la Casa Rosada y hablará ante autoridades en el Palacio Libertad. El lunes 9 visitará el Pequeño Cottolengo Don Orione de Claypole y celebrará una misa en el Monumento de los Españoles, en Palermo. El martes 10 dará una misa en Córdoba y por la noche encabezará una vigilia con jóvenes en Buenos Aires. El miércoles 11 visitará una cárcel federal y celebrará una misa en Luján antes de partir hacia Lima.\n\nEl Gobierno declaró la visita de \"interés nacional\" y, por el Decreto 1103/2026, fijó tres feriados: el lunes 9 de noviembre en todo el país, el martes 10 en la Ciudad de Buenos Aires y la provincia de Córdoba, y el miércoles 11 en la provincia de Buenos Aires. En los feriados con alcance limitado cuenta el lugar donde cada persona trabaja, y se garantizará el 75% de los servicios de transporte público.",
+      "links": [
+        {
+          "name": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-to-make-apostolic-journey-to-uruguay-argentina-and-peru.html"
+        },
+        {
+          "name": "Página/12",
+          "url": "https://www.pagina12.com.ar/2026/10/26/el-papa-leon-xiv-confirmo-su-visita-a-la-argentina/"
+        },
+        {
+          "name": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/26/el-papa-leon-xiv-confirmo-su-viaje-a-la-argentina/"
+        },
+        {
+          "name": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-a-la-argentina-como-quedan-los-feriados-tras-la-confirmacion-del-vaticano-nid26102026/"
+        }
+      ]
+    },
+    {
+      "id": "serbia-estudiantes-derrotan-vucic",
+      "category": "geopolítica",
+      "title": "Un movimiento estudiantil derrota a Vučić en Serbia",
+      "short_summary": "Tras dos años de protestas, la Lista Estudiantil ganó las elecciones parlamentarias con el 52,7%.",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6cc2/live/adac1cc0-d0d7-11f1-ac2b-09beb944cac6.jpg",
+      "context": "* La Lista Estudiantil obtuvo el 52,7% de los votos y el partido de Vučić, el 39,2%, según datos preliminares.\n* Las protestas nacieron en 2024, tras un derrumbe en la estación de Novi Sad que mató a 16 personas.\n* Vučić reconoció la derrota, pero la atribuyó a una injerencia de países europeos y del \"Estado profundo\" estadounidense.",
+      "extended_context": "El movimiento estudiantil que encabezó casi dos años de protestas en Serbia ganó las elecciones parlamentarias anticipadas del domingo 25 de octubre y puso fin a 14 años de dominio de Aleksandar Vučić y su Partido Progresista Serbio (SNS). Con el 97% de las mesas escrutadas, la comisión electoral informó que la Lista Estudiantil obtuvo 2,25 millones de votos (52,7%) y el SNS, 1,67 millones (39,2%). Vučić, que no podía buscar un tercer mandato como presidente y se presentaba para volver a ser primer ministro, admitió: \"Está claro que perdimos estas elecciones\".\n\nLas protestas comenzaron en 2024, después de que el derrumbe de un techo en la estación de tren de Novi Sad, recién renovada, matara a 16 personas. Los estudiantes atribuyeron la tragedia a la corrupción y la negligencia, y el reclamo se transformó en un movimiento opositor que presentó candidatos de distintos ámbitos, como médicos, actores, académicos y deportistas. Vučić y su partido siempre negaron las acusaciones de corrupción. Tras la derrota, Vučić atribuyó el resultado a una \"revolución\" impulsada por países europeos y por el \"Estado profundo\" estadounidense.\n\nLa Unión Europea celebró el resultado: la comisaria de Ampliación, Marta Kos, dijo que \"la puerta de la UE está abierta\". El Kremlin, en cambio, destacó la relación que construyó con Vučić y pidió que el nuevo gobierno mantenga la cooperación con Rusia. Según analistas consultados por Al Jazeera, el nuevo gobierno priorizará los problemas internos y su política exterior cambiaría de forma gradual. En diciembre habrá elecciones presidenciales.",
+      "links": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/serbias-new-leaders-face-host-tough-challenges-2026-10-26/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cw5yn3xlprpmo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy"
+        },
+        {
+          "name": "PBS",
+          "url": "https://www.pbs.org/newshour/world/serbias-populist-strongman-vucic-outplayed-all-his-opponents-then-the-students-came"
+        }
+      ]
+    },
+    {
+      "id": "arabia-saudita-huties-intensifican-ataques",
+      "category": "geopolítica",
+      "title": "Arabia Saudita y los hutíes intensifican sus ataques",
+      "short_summary": "Los hutíes dicen haber atacado un oleoducto clave y la coalición saudí bombardeó Saná.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/wide-thumb-houthi-rally-1784321912.jpg?resize=770%2C513&quality=100",
+      "context": "* Arabia Saudita dijo haber interceptado drones y misiles hutíes lanzados contra Riad, Khamis Mushait y el sur del país.\n* Los hutíes afirman haber atacado el oleoducto Este-Oeste, que evita el estrecho de Ormuz; Arabia Saudita no lo confirmó.\n* La escalada y el temor a nuevos ataques contra Irán llevaron el petróleo a su máximo en seis meses.",
+      "extended_context": "Los enfrentamientos entre Arabia Saudita y los hutíes, el movimiento armado de Yemen aliado de Irán, se intensificaron en los últimos días. El domingo 25 de octubre, la coalición liderada por Arabia Saudita en Yemen informó que interceptó dos drones y un misil balístico que se dirigían a Riad, la capital saudí, además de diez misiles balísticos lanzados hacia el sur del país y un misil crucero dirigido a la ciudad de Khamis Mushait. Los hutíes, por su parte, aseguraron haber realizado \"siete operaciones militares\" contra aeropuertos e instalaciones energéticas, entre ellas el aeropuerto internacional de Riad y plantas de la petrolera estatal Aramco en Yanbu.\n\nEl lunes, los hutíes afirmaron haber atacado estaciones de bombeo del oleoducto Este-Oeste, la principal ruta que tiene Arabia Saudita para exportar crudo sin pasar por el estrecho de Ormuz, aunque el gobierno saudí no confirmó el ataque. La coalición, en tanto, dijo haber destruido dos lanzadores de misiles balísticos en Saná, la capital de Yemen, controlada por los hutíes. Según la televisión estatal saudí, restos de misiles interceptados dañaron edificios y vehículos en Khamis Mushait. El aeropuerto de Riad acababa de retomar sus vuelos: los había suspendido el 10 de octubre, después de un ataque que dejó al menos 13 muertos.\n\nLa escalada se da en medio de la tensión entre Estados Unidos e Irán. Estados Unidos ordenó la salida de Arabia Saudita de sus empleados gubernamentales no esenciales y, según funcionarios estadounidenses citados por The New York Times, Estados Unidos e Israel planean nuevos ataques contra Irán después de las elecciones legislativas estadounidenses del 3 de noviembre. Esa combinación llevó el precio del barril de petróleo Brent a 116,72 dólares el viernes 23, su nivel más alto en seis meses.",
+      "links": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/mideast-news-october-26-2026-7d1bcf08210539085ea0b5ed56ef4d4c"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
+        }
+      ],
+      "related_terms": [
+        "huties",
+        "estrecho-de-ormuz"
+      ]
+    },
+    {
+      "id": "onu-acusa-israel-lesa-humanidad-hebron",
+      "category": "geopolítica",
+      "title": "La ONU acusa a Israel de crímenes de lesa humanidad",
+      "short_summary": "Una operación militar israelí en Hebrón, en Cisjordania, ya desplazó a miles de palestinos.",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/25/9e7a5d1d-1cbc-48a7-a632-24569ee1605a/thumbnail/1240x824/201a4f0ffcacd97e9133943a3c760fc8/gettyimages-2301479009.jpg",
+      "context": "* Una comisión de la ONU concluyó que Israel cometió crímenes de guerra y de lesa humanidad en los territorios palestinos.\n* Israel rechazó el informe y lo calificó de \"propaganda política\" que busca socavar su derecho a defenderse.\n* Tras un ataque que mató a dos soldados, Israel cercó Hebrón y desplazó a más de 2.000 palestinos.",
+      "extended_context": "La Comisión Internacional Independiente de Investigación de la ONU sobre el Territorio Palestino Ocupado concluyó, en un informe presentado ante la Asamblea General el 26 de octubre, que Israel cometió crímenes de guerra y los crímenes de lesa humanidad de exterminio, persecución, tortura, violación y otras formas de violencia sexual, y que continúa cometiendo genocidio en Gaza pese al alto el fuego. Sobre Cisjordania, el informe señala que la situación se deterioró gravemente desde el 7 de octubre de 2023: entre 2008 y esa fecha, seis palestinos murieron por ataques aéreos en ese territorio, mientras que desde entonces y hasta el 30 de septiembre de 2026 fueron 254. El Ministerio de Relaciones Exteriores de Israel rechazó el informe y lo calificó de \"propaganda política desconectada de la realidad\".\n\nEl informe se conoció en medio de una gran operación militar israelí en Hebrón, la ciudad más grande de Cisjordania, con unos 200.000 habitantes. El viernes 23, dos hombres armados palestinos mataron a dos soldados israelíes e hirieron a otros tres en un puesto de control; los atacantes también murieron. El primer ministro Benjamin Netanyahu anunció una respuesta contundente y el ejército cercó la ciudad, realizó operativos en más de 400 lugares, detuvo a decenas de personas y demolió viviendas y comercios. El ministro de Defensa, Israel Katz, habló de unos 2.000 desplazados, mientras que las autoridades municipales palestinas estiman más de 3.000. El alto comisionado de la ONU para los Derechos Humanos, Volker Türk, advirtió que las amenazas de vaciar barrios enteros generan \"serias preocupaciones de limpieza étnica\".\n\nAdemás, el ejército israelí cerró todos los cruces terrestres de Cisjordania durante las elecciones del martes 27 en Israel y prohibió a la mayoría de los trabajadores palestinos ingresar a los asentamientos. El intendente de Hebrón sostuvo que la operación está \"impulsada por las elecciones\". La demolición de viviendas de familiares de atacantes es una práctica habitual de Israel, que organizaciones de derechos humanos, incluidas algunas israelíes, critican como un castigo colectivo. Según el Ministerio de Salud palestino, en lo que va del año murieron 112 palestinos en Cisjordania; en el mismo período, seis israelíes murieron en ataques en ese territorio.",
+      "links": [
+        {
+          "name": "ONU Derechos Humanos (OHCHR)",
+          "url": "https://www.ohchr.org/en/press-releases/2026/10/israel-has-committed-war-crimes-and-crimes-against-humanity-occupied"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/israel-military-operation-west-bank-elections/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/around-1200-palestinians-are-displaced-hebron-israel-begins-military-operation-2026-10-24/"
+        },
+        {
+          "name": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/un-raises-ethnic-cleansing-concerns-over-israels-hebron-operation/"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6y93ylpl5p2o"
+        },
+        {
+          "name": "The Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-912812"
+        }
+      ],
+      "related_terms": [
+        "cisjordania",
+        "crimenes-de-guerra-convencion-ginebra"
+      ]
+    },
+    {
+      "id": "onu-ataques-rusos-energia-ucrania",
+      "category": "geopolítica",
+      "title": "La ONU acusa a Rusia por atacar la energía ucraniana",
+      "short_summary": "Una comisión concluyó que Rusia busca dejar a la población sin calefacción durante el invierno.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297673355.jpg?c=16x9&q=w_800,c_fill",
+      "context": "* Una comisión de la ONU concluyó que los ataques rusos contra la red energética ucraniana son crímenes de lesa humanidad.\n* El informe señala a Putin y a altos mandos militares; Rusia lo rechazó y dijo que usa datos falsificados.\n* El último invierno, millones de ucranianos pasaron largos períodos sin calefacción, electricidad ni agua por los bombardeos.",
+      "extended_context": "La Comisión Internacional Independiente de Investigación de la ONU sobre Ucrania concluyó que Rusia comete crímenes de guerra y crímenes de lesa humanidad con sus ataques sistemáticos contra la infraestructura energética ucraniana: centrales de calefacción, líneas eléctricas e instalaciones de gas. Según el informe, presentado ante la Asamblea General el lunes 26 de octubre, los ataques \"se llevaron a cabo de forma intencional\" y responden a una \"política de Estado\" para privar a la población civil del suministro de energía. La comisión sostiene que los comandantes rusos sabían que las instalaciones atacadas eran indispensables para los civiles, sobre todo en invierno.\n\nEl informe se centra en el invierno de 2025-2026, que fue especialmente frío, cuando millones de personas sufrieron cortes prolongados de calefacción, electricidad, agua y gas. Médicos ucranianos atendieron casos de congelamiento e hipotermia, y se registraron muertes por frío dentro de viviendas. La comisión menciona declaraciones del presidente Vladimir Putin sobre instrucciones para atacar la infraestructura energética y señala como responsables de planificar y supervisar los ataques al exministro de Defensa Serguéi Shoigú, a su sucesor, Andréi Beloúsov, y al jefe del Estado Mayor, Valeri Guerásimov.\n\nLa misión de Rusia ante la ONU rechazó las conclusiones: afirmó que no reconoce el mandato de la comisión, creada por un \"órgano politizado\" como el Consejo de Derechos Humanos, y que el informe se basa en \"datos falsificados\" aportados por Ucrania. El canciller ucraniano, Andrii Sybiha, dijo que el informe \"confirma lo que los ucranianos vivieron durante años\". Con la llegada del frío, el presidente de la comisión, Erik Møse, advirtió que los ataques volvieron a intensificarse.",
+      "links": [
+        {
+          "name": "ONU Derechos Humanos (OHCHR)",
+          "url": "https://www.ohchr.org/en/press-releases/2026/10/russian-authorities-committed-crimes-against-humanity-through-attacks"
+        },
+        {
+          "name": "CNN",
+          "url": "https://edition.cnn.com/2026/10/26/europe/un-report-russia-ukraine-intl"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un"
+        },
+        {
+          "name": "NV (The New Voice of Ukraine)",
+          "url": "https://english.nv.ua/russia-bombing-ukraine-amounts-to-crimes-against-humanity-un-says-50653574.html"
+        }
+      ],
+      "related_terms": [
+        "crimenes-de-guerra-convencion-ginebra"
+      ]
+    },
+    {
+      "id": "protestas-jovenes-europa",
+      "category": "geopolítica",
+      "title": "Las protestas juveniles se extienden por Europa",
+      "short_summary": "Estudiantes de varios países reclaman por la educación, la vivienda y el costo de vida.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26280352611032.jpg?c=16x9&q=w_800,c_fill",
+      "context": "* En Francia, decenas de miles marcharon el sábado en apoyo a docentes en huelga y por más inversión educativa.\n* En España y Portugal las protestas giran en torno a la vivienda; en Italia y Grecia, a la educación pública.\n* En Albania y Serbia, los reclamos se centraron en la corrupción y buscaron la caída de sus gobiernos.",
+      "extended_context": "Una ola de protestas protagonizada sobre todo por jóvenes se extiende por varios países de Europa. Los reclamos varían según el país, pero comparten un fondo común: la falta de inversión en educación, el aumento del costo de la vivienda y del costo de vida, y la sensación de que la nueva generación no tendrá las mismas oportunidades que la anterior. Según CNN, los movimientos se inspiran entre sí: en Italia y Grecia hubo consignas que mencionan a los manifestantes franceses, y las protestas por la vivienda en España se trasladaron a Portugal.\n\nEn Francia, las protestas empezaron con estudiantes que apoyaban a docentes en huelga y reclamaban cursos menos numerosos, más docentes y el fin de la violencia policial contra los jóvenes; el sábado 24, decenas de miles marcharon en París, Marsella, Lyon y otras ciudades. En España, el desalojo de una mujer de 87 años desató protestas por la vivienda que terminaron llevando al gobierno a convocar elecciones anticipadas. En Portugal, miles de personas se reúnen cada noche en la plaza Rossio de Lisboa para pedir límites a los aumentos de alquiler. En Italia, estudiantes ocuparon escuelas, y en Grecia miles marcharon por una educación pública y gratuita.\n\nEn Albania y Serbia, las movilizaciones apuntaron contra la corrupción. En Albania, donde las protestas se volvieron violentas, el primer ministro Edi Rama rechazó renunciar y culpó a la oposición por los disturbios; en Serbia, el movimiento estudiantil terminó ganando las elecciones. Los principales sindicatos de Francia y España convocaron a huelgas generales para el 5 y el 11 de noviembre, respectivamente.",
+      "links": [
+        {
+          "name": "CNN",
+          "url": "https://edition.cnn.com/2026/10/24/europe/gen-z-protests-europe-explainer-intl"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal"
+        },
+        {
+          "name": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/10/25/spanish-youths-storm-barcelona-as-violent-protests-sweep-eu/"
+        }
+      ]
+    },
+    {
+      "id": "gases-efecto-invernadero-nuevo-record",
+      "category": "ciencia-ambiente",
+      "title": "Los gases de efecto invernadero alcanzan un nuevo récord",
+      "short_summary": "La ONU advierte que el dióxido de carbono acumulado afectará el clima durante siglos.",
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-07-2021_Unsplash_power-plant.jpg/image1170x530cropped.jpg",
+      "context": "* En 2025, la concentración de dióxido de carbono en la atmósfera llegó a 426,8 partes por millón, un récord.\n* Es un 53% más que antes de la Revolución Industrial; el metano y el óxido nitroso también batieron récords.\n* La OMM prevé otra suba en 2026 por la quema de combustibles fósiles y un fuerte fenómeno de El Niño.",
+      "extended_context": "Las concentraciones de los tres principales gases de efecto invernadero (dióxido de carbono, metano y óxido nitroso) alcanzaron nuevos récords en 2025, según el Boletín de Gases de Efecto Invernadero de la Organización Meteorológica Mundial (OMM), la agencia de la ONU para el tiempo y el clima. El dióxido de carbono (CO2) llegó a 426,8 partes por millón, el 153% del nivel de 1750, antes de la Revolución Industrial. El metano alcanzó 1.948 partes por mil millones (267% del nivel preindustrial) y el óxido nitroso, 339,1 partes por mil millones (126%).\n\n\"Otro año, otro récord\", resumió la vicesecretaria general de la OMM, Ko Barrett, quien explicó que estos gases atrapan una cantidad de calor sin precedentes y aportan energía a fenómenos extremos como olas de calor, ciclones y tormentas. Los últimos 11 años fueron los más cálidos desde que hay registros. Como el CO2 permanece mucho tiempo en la atmósfera, su efecto sobre el clima se sentirá durante décadas e incluso siglos. El boletín mide la cantidad de gas acumulada en la atmósfera, no las emisiones de cada año: alrededor de la mitad del CO2 emitido queda en el aire y el resto lo absorben los océanos y los ecosistemas terrestres.\n\nEntre 2024 y 2025, el CO2 aumentó 2,8 partes por millón, menos que el salto excepcional del año anterior, cuando un fuerte El Niño redujo la capacidad de la vegetación para absorber carbono. La OMM prevé un nuevo aumento en 2026 por la quema de combustibles fósiles y por el desarrollo de otro El Niño intenso. El informe se publicó antes de la COP31, la conferencia climática de la ONU que se realizará del 9 al 20 de noviembre en Antalya, Turquía.",
+      "links": [
+        {
+          "name": "Organización Meteorológica Mundial (OMM)",
+          "url": "https://wmo.int/news/media-centre/greenhouse-gas-levels-once-again-reach-record-high"
+        },
+        {
+          "name": "Noticias ONU",
+          "url": "https://news.un.org/en/story/2026/10/1168677"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/greenhouse-gas-levels-records-again-2025-un/"
+        },
+        {
+          "name": "New Scientist",
+          "url": "https://www.newscientist.com/article/2595885-major-greenhouse-gases-rise-again-to-record-levels/"
+        }
+      ],
+      "related_terms": [
+        "el-nino"
+      ]
+    },
+    {
+      "id": "ebola-congo-supera-10000-casos",
+      "category": "geopolítica",
+      "title": "El ébola supera los 10.000 casos en el Congo",
+      "short_summary": "Casi la mitad de los infectados murió y ya hubo casos en otros cuatro países.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adbf28ec9cc3-1792799374.jpg?resize=1920%2C1440",
+      "context": "* La República Democrática del Congo registró 10.060 casos confirmados y 4.887 muertes, según su Ministerio de Salud.\n* Es el brote más grande de la historia del país y lo causa una cepa sin vacuna ni tratamiento aprobados.\n* También hubo casos en Uganda, Kenia, Nigeria y Francia; la OMS ya inició un ensayo clínico de una vacuna.",
+      "extended_context": "El brote de ébola en la República Democrática del Congo superó los 10.000 casos confirmados. Según datos del Ministerio de Salud congoleño publicados el martes 27 de octubre, hay 10.060 casos y 4.887 muertes: casi la mitad de los infectados murió. Es el brote de ébola más grande y más mortífero de la historia del país y, a nivel mundial, el segundo más grande registrado, detrás de la epidemia de África Occidental de 2014-2016, que dejó 28.600 infectados y más de 11.000 muertos.\n\nEl brote, declarado el 15 de mayo, es causado por el virus Bundibugyo, una cepa poco común del ébola para la que no existe vacuna ni tratamiento aprobados. El viernes 23, la Organización Mundial de la Salud (OMS) anunció el inicio del primer ensayo clínico de una vacuna. Hay casos en 66 zonas sanitarias de ocho provincias, y la provincia de Ituri es el epicentro. Un dato preocupante es que alrededor del 80% de los nuevos casos aparece por fuera de las cadenas de contagio que siguen las autoridades: para considerar el brote bajo control, al menos el 95% debería surgir de contactos conocidos.\n\nLa respuesta enfrenta muchas dificultades: centros de tratamiento desbordados, falta de insumos y de personal en zonas alejadas, huelgas por salarios impagos y desconfianza de parte de la población. El sábado 24, un integrante del personal de enfermería fue asesinado mientras respondía a un caso sospechoso en la provincia de Tshopo. El virus también cruzó fronteras: hubo casos en Uganda, Francia, Kenia y Nigeria. Uganda ordenó una cuarentena de 21 días para quienes regresen del Congo, y Nigeria reforzó los controles en los aeropuertos.",
+      "links": [
+        {
+          "name": "Organización Mundial de la Salud (OMS)",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+        },
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/ebola-disease-outbreak-congo-africa-10000-75d315254e5b7f85a706059de6f5024c"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-infections-surpass-10000-government-says-2026-10-27/"
+        }
+      ],
+      "related_terms": [
+        "ebola"
+      ]
+    },
+    {
+      "id": "anthropic-salida-bolsa-opiniones-divididas",
+      "category": "negocios-tecnologia",
+      "title": "La salida a bolsa de Anthropic divide opiniones",
+      "short_summary": "Su prospecto muestra fuertes ingresos, enormes pérdidas y advertencias sobre los riesgos de la IA.",
+      "image": "https://www.economist.com/cdn-cgi/image/width=960,quality=80,format=auto/content-assets/images/20261031_WBP501.jpg",
+      "context": "* Anthropic presentó su pedido para cotizar en el Nasdaq; en el primer semestre facturó US$16.300 millones y perdió US$80.700 millones.\n* El documento advierte que la IA podría implicar \"riesgos catastróficos o existenciales para la humanidad\".\n* Críticos ven una contradicción con su carrera por modelos más potentes; la empresa defiende su estrategia.",
+      "extended_context": "Anthropic, la empresa de inteligencia artificial creadora de Claude, presentó el lunes 26 de octubre ante la Comisión de Bolsa y Valores de Estados Unidos (SEC) el documento para salir a la bolsa, conocido como S-1. La compañía planea cotizar en el Nasdaq con el símbolo \"ANT\", aunque todavía no definió cuántas acciones venderá ni a qué precio. El prospecto muestra ingresos por US$16.300 millones en el primer semestre de 2026 y una pérdida neta de US$80.700 millones en el mismo período. Según CNBC, sus clientes actuales multiplicaron por nueve su gasto en un año.\n\nMás de 90 páginas del prospecto están dedicadas a los riesgos. Entre ellos, la empresa advierte que sus modelos podrían implicar \"riesgos catastróficos o existenciales para la humanidad\" y menciona sus conflictos con el gobierno de Donald Trump: en marzo, el Pentágono la vetó como proveedora, y en junio tuvo que desactivar temporalmente dos de sus modelos por una orden del gobierno. También señala la creciente oposición a la construcción de centros de datos y la falta de energía eléctrica suficiente para alimentarlos. La salida a bolsa llega en un momento de nerviosismo en los mercados sobre si el gasto en IA logrará justificar las enormes inversiones en infraestructura.\n\nLas opiniones están divididas. Algunos inversores destacan el ritmo de crecimiento, mientras que The Economist advirtió que no hay que esperar grandes ganancias de la empresa en el corto plazo. Otros críticos apuntan a una contradicción: Anthropic fue fundada con la promesa de priorizar la seguridad, pero compite por desarrollar modelos cada vez más potentes. Una columna del sitio Vox sostiene que la empresa contribuyó más a acelerar la carrera de la IA que a hacerla más segura. Su director ejecutivo, Dario Amodei, defiende la estrategia opuesta: que una empresa enfocada en la seguridad debe estar en la vanguardia para empujar a toda la industria hacia mejores prácticas, lo que llama una \"carrera hacia la cima\".",
+      "links": [
+        {
+          "name": "The Economist",
+          "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises"
+        },
+        {
+          "name": "Vox",
+          "url": "https://www.vox.com/future-perfect/507875/anthropic-ipo-stop-ai-race-safety"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html"
+        }
+      ],
+      "related_terms": [
+        "anthropic",
+        "ipo",
+        "burbuja-ia"
+      ]
+    },
+    {
+      "id": "elecciones-israel-netanyahu-pierde-mayoria",
+      "category": "geopolítica",
+      "title": "Elecciones en Israel: el bloque de Netanyahu pierde la mayoría",
+      "short_summary": "Su principal rival, Eisenkot, necesitaría a los partidos árabes para formar gobierno.",
+      "image": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1056/live/b284a350-d089-11f1-92f6-357f3b0f345f.png",
+      "context": "* Con casi todos los votos contados, el Likud de Netanyahu es el partido más votado, con unas 26 bancas.\n* Pero su bloque de derecha sumaría 53 de las 120 bancas, lejos de las 61 necesarias para gobernar.\n* La oposición de Eisenkot solo llegaría a 61 con dos partidos árabes, algo que parte de sus aliados rechaza.",
+      "extended_context": "Las elecciones del martes 27 de octubre en Israel, las primeras desde el ataque de Hamás del 7 de octubre de 2023, no dejaron un ganador claro. Con la mayoría de los votos contados, el Likud del primer ministro Benjamin Netanyahu sigue siendo el partido más grande del Parlamento (la Knéset), con unas 26 de las 120 bancas. Sin embargo, su bloque de derecha sumaría 53 escaños, por debajo de los 61 necesarios para formar gobierno. Todavía faltan contar entre 430.000 y 480.000 votos especiales (de soldados, presos, pacientes y diplomáticos, entre otros), que pueden mover más de 10 bancas, y los resultados oficiales se publicarán el 4 de noviembre.\n\nEl principal rival de Netanyahu, el exjefe del ejército Gadi Eisenkot, obtuvo 21 bancas. En los papeles, la oposición reúne unas 67, pero los partidos judíos opositores suman solo 48: para llegar a 61 necesitarían el apoyo de los dos partidos árabes, Raam y la Lista Conjunta, que lograron un récord de 19 bancas. La Lista Conjunta se mostró dispuesta a colaborar para terminar con el gobierno de Netanyahu, pero dos aliados de Eisenkot, Naftali Bennett y Avigdor Liberman, se opusieron durante la campaña a un gobierno que dependa de ellos. El Likud, por su parte, acusó a los partidos árabes de \"robar la elección\", y el Comité Central Electoral dijo que está analizando la denuncia.\n\nAhora, el presidente Isaac Herzog consultará a todos los partidos y elegirá al candidato con más posibilidades de reunir una mayoría, que tendrá 28 días (prorrogables por otros 14) para formar gobierno. Si nadie lo logra, habrá nuevas elecciones y, mientras tanto, Netanyahu seguirá como primer ministro interino. Herzog pidió \"hacer todo lo posible para evitar otra ronda de elecciones\".",
+      "links": [
+        {
+          "name": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/cec-89-8-of-votes-counted-no-change-in-seat-distribution/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history"
+        },
+        {
+          "name": "CNN",
+          "url": "https://edition.cnn.com/2026/10/28/middleeast/netanyahu-israel-election-intl"
+        },
+        {
+          "name": "CBC",
+          "url": "https://www.cbc.ca/news/world/arab-parties-offer-israel-s-political-leaders-a-path-to-victory-why-does-no-one-want-to-take-it-9.7399428"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx8dz75633vjo"
+        }
+      ]
+    },
+    {
+      "id": "ley-malvinas-cambios-sanciones",
+      "category": "nacional",
+      "title": "El oficialismo introduce cambios en la ley de Malvinas",
+      "short_summary": "Limita las sanciones a empresas vinculadas a las islas y reformula el delito de desinformación.",
+      "image": "https://www.infobae.com/resizer/v2/U4SHKQ2IZVATLAKDYPGCR5UVJM.JPG?auth=ed7db41b9d94d03e9a9bb1bbd77fa8b08a800f79b21da8987a11ccd9231166df&smart=true&width=992&height=661&quality=85",
+      "context": "* El proyecto de Defensa de la Soberanía Nacional sanciona a empresas que exploten recursos en Malvinas sin autorización argentina.\n* Los cambios llegaron tras advertencias de Estados Unidos sobre sus empresas y para sumar apoyos de bloques aliados.\n* Ahora solo se sanciona a operadoras, proveedores esenciales y accionistas directos, y se exceptúa a fondos de inversión.",
+      "extended_context": "El oficialismo introdujo cambios importantes en el proyecto de Ley de Defensa de la Soberanía Nacional, conocido como \"ley Malvinas\", que el presidente Javier Milei envió al Congreso. Uno de sus capítulos centrales establece sanciones económicas y penales para las empresas que exploten, sin autorización argentina, recursos naturales en las islas Malvinas y la plataforma continental. Apunta especialmente al proyecto petrolero Sea Lion, en la Cuenca Malvinas, a cargo de la israelí Navitas Petroleum (65%) y la británica Rockhopper Exploration (35%).\n\nSegún Infobae, los cambios llegaron después de que el subsecretario de Estado de Estados Unidos, Christopher Landau, advirtiera en una reunión con Milei sobre el impacto que las sanciones podían tener en empresas estadounidenses; Página/12 informó que el secretario de Estado, Marco Rubio, exigió modificaciones. Según La Nación, los cambios también buscan el apoyo de los bloques aliados para conseguir el dictamen en Diputados. En la nueva versión, para sancionar a un proveedor se exige que sus bienes o servicios sean indispensables para la actividad ilegal y que conozca su destino, y quedan exceptuados los accionistas minoritarios con hasta el 2% y los fondos de inversión sin poder de decisión. La pena mínima de prisión para esos proveedores baja de cinco a dos años.\n\nEl proyecto también crea un Consejo de Seguridad Nacional presidido por Milei, con facultades para rechazar inversiones de Estados extranjeros en sectores estratégicos. Para responder a las críticas, se agregó una Comisión Bicameral del Congreso que controlará sus decisiones. Además, se reformuló el delito de \"desinformación masiva\", que preveía de cinco a doce años de prisión para quienes, por cuenta de un Estado extranjero, buscaran alterar elecciones o manipular la opinión pública: la nueva redacción excluye de forma expresa al periodismo, la investigación académica y la actividad diplomática. Parte de la oposición pide tratar por separado lo referido a Malvinas y las reformas de inteligencia y seguridad.",
+      "links": [
+        {
+          "name": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-acepto-limitar-las-prohibiciones-a-empresas-que-operan-en-las-islas-y-reformulo-nid26102026/"
+        },
+        {
+          "name": "Página/12",
+          "url": "https://www.pagina12.com.ar/2026/10/25/apriete-para-que-la-ley-no-sancione-a-empresas-norteamericanas/"
+        },
+        {
+          "name": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/26/el-gobierno-limita-las-sanciones-por-malvinas-tras-las-advertencias-de-eeuu-sobre-sus-empresas/"
+        },
+        {
+          "name": "Perfil",
+          "url": "https://www.perfil.com/edicion-impresa/malvinas-milei-recibio-a-los-enviados-de-trump-aS3NT7x9nAYC"
+        }
+      ]
+    }
+  ]
+}
