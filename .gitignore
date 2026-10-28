@@ -52,3 +52,5 @@ venv/
 # Curation and weekly inputs
 pending_news.json
 week-*.csv
+# Personal working files
+random_files/
