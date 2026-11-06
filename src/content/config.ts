@@ -28,7 +28,8 @@ const newsCollection = defineCollection({
         url: z.string().url(),
       })),
       color: z.string().optional(),
-      image: z.string().url(),
+      // URL externa o imagen propia en public/ (ej: "/images/foto.jpg")
+      image: z.union([z.string().url(), z.string().startsWith('/')]),
       related_terms: z.array(z.string()).optional(),
       timeline: z.array(z.object({
         date: z.string(),
